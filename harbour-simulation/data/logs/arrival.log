@@ -1,0 +1,2498 @@
+INFO - [0.477]: Ship 0 arrived!
+INFO - [0.477]: Ship 0 obtained dock.
+INFO - [0.477]: Ship 0 obtained tug 0.
+INFO - [0.477]: Ship 0 starts docking.
+INFO - [0.543]: Ship 1 arrived!
+INFO - [0.543]: Ship 1 obtained dock.
+INFO - [0.543]: Ship 1 obtained tug 1.
+INFO - [0.543]: Ship 1 starts docking.
+INFO - [0.667]: Ship 2 arrived!
+INFO - [0.667]: Ship 2 obtained dock.
+INFO - [0.667]: Ship 2 obtained tug 2.
+INFO - [0.667]: Ship 2 starts docking.
+INFO - [1.043]: Ship 3 arrived!
+INFO - [1.043]: Ship 3 obtained dock.
+INFO - [1.043]: Ship 3 obtained tug 3.
+INFO - [1.043]: Ship 3 starts docking.
+INFO - [1.261]: Ship 4 arrived!
+INFO - [1.261]: Ship 4 obtained dock.
+INFO - [1.261]: Ship 4 obtained tug 4.
+INFO - [1.261]: Ship 4 starts docking.
+INFO - [1.363]: Ship 5 arrived!
+INFO - [1.363]: Ship 5 obtained dock.
+INFO - [1.363]: Ship 5 obtained tug 5.
+INFO - [1.363]: Ship 5 starts docking.
+INFO - [1.436]: Ship 0 completed docking.
+INFO - [1.593]: Ship 1 completed docking.
+INFO - [1.681]: Ship 2 completed docking.
+INFO - [1.942]: Ship 3 completed docking.
+INFO - [2.127]: Ship 6 arrived!
+INFO - [2.127]: Ship 6 obtained dock.
+INFO - [2.127]: Ship 6 obtained tug 6.
+INFO - [2.127]: Ship 6 starts docking.
+INFO - [2.323]: Ship 5 completed docking.
+INFO - [2.366]: Ship 4 completed docking.
+INFO - [2.625]: Ship 7 arrived!
+INFO - [2.625]: Ship 7 obtained dock.
+INFO - [2.625]: Ship 7 obtained tug 7.
+INFO - [2.625]: Ship 7 starts docking.
+INFO - [2.919]: Ship 8 arrived!
+INFO - [2.919]: Ship 8 obtained dock.
+INFO - [2.919]: Ship 8 obtained tug 0.
+INFO - [2.919]: Ship 8 starts docking.
+INFO - [3.213]: Ship 6 completed docking.
+INFO - [3.270]: Ship 9 arrived!
+INFO - [3.270]: Ship 9 obtained dock.
+INFO - [3.270]: Ship 9 obtained tug 1.
+INFO - [3.270]: Ship 9 starts docking.
+INFO - [3.272]: Ship 10 arrived!
+INFO - [3.272]: Ship 10 obtained dock.
+INFO - [3.272]: Ship 10 obtained tug 2.
+INFO - [3.272]: Ship 10 starts docking.
+INFO - [3.827]: Ship 7 completed docking.
+INFO - [3.963]: Ship 11 arrived!
+INFO - [3.963]: Ship 11 obtained dock.
+INFO - [3.963]: Ship 11 obtained tug 3.
+INFO - [3.963]: Ship 11 starts docking.
+INFO - [4.041]: Ship 8 completed docking.
+INFO - [4.149]: Ship 10 completed docking.
+INFO - [4.152]: Ship 9 completed docking.
+INFO - [4.333]: Ship 12 arrived!
+INFO - [4.333]: Ship 12 obtained dock.
+INFO - [4.333]: Ship 12 obtained tug 5.
+INFO - [4.333]: Ship 12 starts docking.
+INFO - [4.817]: Ship 11 completed docking.
+INFO - [4.890]: Ship 13 arrived!
+INFO - [4.890]: Ship 13 obtained dock.
+INFO - [4.890]: Ship 13 obtained tug 4.
+INFO - [4.890]: Ship 13 starts docking.
+INFO - [5.066]: Ship 14 arrived!
+INFO - [5.066]: Ship 14 obtained dock.
+INFO - [5.066]: Ship 14 obtained tug 6.
+INFO - [5.066]: Ship 14 starts docking.
+INFO - [5.295]: Ship 12 completed docking.
+INFO - [5.371]: Ship 15 arrived!
+INFO - [5.371]: Ship 15 obtained dock.
+INFO - [5.371]: Ship 15 obtained tug 0.
+INFO - [5.371]: Ship 15 starts docking.
+INFO - [5.517]: Ship 16 arrived!
+INFO - [5.517]: Ship 16 obtained dock.
+INFO - [5.517]: Ship 16 obtained tug 2.
+INFO - [5.517]: Ship 16 starts docking.
+INFO - [5.831]: Ship 13 completed docking.
+INFO - [6.128]: Ship 14 completed docking.
+INFO - [6.266]: Ship 1 exited.
+INFO - [6.291]: Ship 15 completed docking.
+INFO - [6.336]: Ship 16 completed docking.
+INFO - [6.740]: Ship 2 exited.
+INFO - [6.750]: Ship 0 exited.
+INFO - [6.814]: Ship 17 arrived!
+INFO - [6.814]: Ship 17 obtained dock.
+INFO - [6.814]: Ship 17 obtained tug 7.
+INFO - [6.814]: Ship 17 starts docking.
+INFO - [6.961]: Special ship 18 arrived!
+INFO - [6.961]: Ship 18 obtained dock.
+INFO - [6.961]: Ship 18 obtained tug 0.
+INFO - [6.961]: Ship 18 starts docking.
+INFO - [7.174]: Ship 5 exited.
+INFO - [7.229]: Ship 19 arrived!
+INFO - [7.229]: Ship 19 obtained dock.
+INFO - [7.229]: Ship 19 obtained tug 1.
+INFO - [7.229]: Ship 19 starts docking.
+INFO - [7.524]: Ship 3 exited.
+INFO - [7.633]: Ship 20 arrived!
+INFO - [7.633]: Ship 20 obtained dock.
+INFO - [7.633]: Ship 20 obtained tug 3.
+INFO - [7.633]: Ship 20 starts docking.
+INFO - [7.654]: Ship 4 exited.
+INFO - [7.886]: Ship 21 arrived!
+INFO - [7.886]: Ship 21 obtained dock.
+INFO - [7.886]: Ship 21 obtained tug 4.
+INFO - [7.886]: Ship 21 starts docking.
+INFO - [7.916]: Ship 18 completed docking.
+INFO - [7.939]: Ship 17 completed docking.
+INFO - [8.007]: Special ship 22 arrived!
+INFO - [8.007]: Ship 22 obtained dock.
+INFO - [8.007]: Ship 22 obtained tug 6.
+INFO - [8.007]: Ship 22 starts docking.
+INFO - [8.086]: Ship 23 arrived!
+INFO - [8.086]: Ship 23 obtained dock.
+INFO - [8.086]: Ship 23 obtained tug 0.
+INFO - [8.086]: Ship 23 starts docking.
+INFO - [8.133]: Special ship 24 arrived!
+INFO - [8.133]: Ship 24 obtained dock.
+INFO - [8.133]: Ship 24 obtained tug 7.
+INFO - [8.133]: Ship 24 starts docking.
+INFO - [8.258]: Ship 19 completed docking.
+INFO - [8.304]: Ship 6 exited.
+INFO - [8.667]: Ship 20 completed docking.
+INFO - [8.670]: Ship 25 arrived!
+INFO - [8.670]: Ship 25 obtained dock.
+INFO - [8.726]: Ship 9 exited.
+INFO - [8.726]: Ship 25 obtained tug 5.
+INFO - [8.726]: Ship 25 starts docking.
+INFO - [8.759]: Special ship 26 arrived!
+INFO - [8.759]: Ship 26 obtained dock.
+INFO - [8.791]: Special ship 27 arrived!
+INFO - [8.791]: Ship 27 obtained dock.
+INFO - [8.987]: Ship 22 completed docking.
+INFO - [8.987]: Ship 26 obtained tug 6.
+INFO - [8.987]: Ship 26 starts docking.
+INFO - [9.003]: Ship 21 completed docking.
+INFO - [9.003]: Ship 27 obtained tug 4.
+INFO - [9.003]: Ship 27 starts docking.
+INFO - [9.176]: Ship 28 arrived!
+INFO - [9.176]: Ship 28 obtained dock.
+INFO - [9.216]: Ship 23 completed docking.
+INFO - [9.293]: Ship 10 exited.
+INFO - [9.293]: Ship 28 obtained tug 2.
+INFO - [9.293]: Ship 28 starts docking.
+INFO - [9.307]: Ship 24 completed docking.
+INFO - [9.323]: Ship 29 arrived!
+INFO - [9.323]: Ship 29 obtained dock.
+INFO - [9.323]: Ship 29 obtained tug 7.
+INFO - [9.323]: Ship 29 starts docking.
+INFO - [9.432]: Ship 30 arrived!
+INFO - [9.432]: Ship 30 obtained dock.
+INFO - [9.486]: Ship 7 exited.
+INFO - [9.581]: Ship 8 exited.
+INFO - [9.581]: Ship 30 obtained tug 3.
+INFO - [9.581]: Ship 30 starts docking.
+INFO - [9.728]: Ship 25 completed docking.
+INFO - [9.829]: Ship 31 arrived!
+INFO - [9.829]: Ship 31 obtained dock.
+INFO - [9.829]: Ship 31 obtained tug 5.
+INFO - [9.829]: Ship 31 starts docking.
+INFO - [10.026]: Ship 32 arrived!
+INFO - [10.026]: Ship 32 obtained dock.
+INFO - [10.173]: Ship 26 completed docking.
+INFO - [10.221]: Ship 27 completed docking.
+INFO - [10.221]: Ship 32 obtained tug 4.
+INFO - [10.221]: Ship 32 starts docking.
+INFO - [10.236]: Ship 11 exited.
+INFO - [10.265]: Ship 28 completed docking.
+INFO - [10.358]: Ship 15 exited.
+INFO - [10.492]: Ship 29 completed docking.
+INFO - [10.664]: Ship 30 completed docking.
+INFO - [10.666]: Ship 33 arrived!
+INFO - [10.666]: Ship 33 obtained dock.
+INFO - [10.666]: Ship 33 obtained tug 7.
+INFO - [10.666]: Ship 33 starts docking.
+INFO - [10.800]: Ship 34 arrived!
+INFO - [10.800]: Ship 34 obtained dock.
+INFO - [10.800]: Ship 34 obtained tug 3.
+INFO - [10.800]: Ship 34 starts docking.
+INFO - [10.812]: Ship 31 completed docking.
+INFO - [11.095]: Ship 16 exited.
+INFO - [11.105]: Ship 35 arrived!
+INFO - [11.105]: Ship 35 obtained dock.
+INFO - [11.105]: Ship 35 obtained tug 5.
+INFO - [11.105]: Ship 35 starts docking.
+INFO - [11.201]: Ship 14 exited.
+INFO - [11.254]: Ship 32 completed docking.
+INFO - [11.262]: Special ship 36 arrived!
+INFO - [11.262]: Ship 36 obtained dock.
+INFO - [11.262]: Ship 36 obtained tug 6.
+INFO - [11.262]: Ship 36 starts docking.
+INFO - [11.348]: Ship 12 exited.
+INFO - [11.375]: Ship 13 exited.
+INFO - [11.553]: Ship 37 arrived!
+INFO - [11.553]: Ship 37 obtained dock.
+INFO - [11.553]: Ship 37 obtained tug 4.
+INFO - [11.553]: Ship 37 starts docking.
+INFO - [11.745]: Ship 38 arrived!
+INFO - [11.745]: Ship 38 obtained dock.
+INFO - [11.745]: Ship 38 obtained tug 1.
+INFO - [11.745]: Ship 38 starts docking.
+INFO - [11.835]: Ship 34 completed docking.
+INFO - [11.851]: Ship 33 completed docking.
+INFO - [12.066]: Ship 35 completed docking.
+INFO - [12.318]: Ship 39 arrived!
+INFO - [12.318]: Ship 39 obtained dock.
+INFO - [12.318]: Ship 39 obtained tug 7.
+INFO - [12.318]: Ship 39 starts docking.
+INFO - [12.335]: Ship 17 exited.
+INFO - [12.397]: Ship 36 completed docking.
+INFO - [12.514]: Ship 40 arrived!
+INFO - [12.520]: Ship 41 arrived!
+INFO - [12.632]: Special ship 42 arrived!
+INFO - [12.654]: Ship 37 completed docking.
+INFO - [12.737]: Ship 42 obtained dock.
+INFO - [12.737]: Ship 42 obtained tug 0.
+INFO - [12.737]: Ship 42 starts docking.
+INFO - [12.755]: Ship 18 exited.
+INFO - [12.810]: Ship 40 obtained dock.
+INFO - [12.810]: Ship 40 obtained tug 4.
+INFO - [12.810]: Ship 40 starts docking.
+INFO - [12.867]: Ship 38 completed docking.
+INFO - [12.887]: Ship 41 obtained dock.
+INFO - [12.887]: Ship 41 obtained tug 1.
+INFO - [12.887]: Ship 41 starts docking.
+INFO - [13.102]: Ship 19 exited.
+INFO - [13.254]: Ship 43 arrived!
+INFO - [13.349]: Ship 43 obtained dock.
+INFO - [13.398]: Special ship 44 arrived!
+INFO - [13.501]: Ship 39 completed docking.
+INFO - [13.501]: Ship 43 obtained tug 7.
+INFO - [13.501]: Ship 43 starts docking.
+INFO - [13.502]: Ship 45 arrived!
+INFO - [13.599]: Ship 46 arrived!
+INFO - [13.674]: Ship 41 completed docking.
+INFO - [13.791]: Ship 24 exited.
+INFO - [13.808]: Ship 22 exited.
+INFO - [13.867]: Ship 44 obtained dock.
+INFO - [13.867]: Ship 44 obtained tug 6.
+INFO - [13.867]: Ship 44 starts docking.
+INFO - [13.885]: Ship 42 completed docking.
+INFO - [13.910]: Ship 47 arrived!
+INFO - [13.980]: Ship 45 obtained dock.
+INFO - [13.980]: Ship 45 obtained tug 0.
+INFO - [13.980]: Ship 45 starts docking.
+INFO - [13.990]: Ship 40 completed docking.
+INFO - [14.011]: Ship 20 exited.
+INFO - [14.042]: Ship 48 arrived!
+INFO - [14.072]: Ship 49 arrived!
+INFO - [14.222]: Ship 46 obtained dock.
+INFO - [14.222]: Ship 46 obtained tug 2.
+INFO - [14.222]: Ship 46 starts docking.
+INFO - [14.387]: Ship 50 arrived!
+INFO - [14.436]: Special ship 51 arrived!
+INFO - [14.514]: Ship 52 arrived!
+INFO - [14.577]: Ship 43 completed docking.
+INFO - [14.594]: Ship 51 obtained dock.
+INFO - [14.612]: Ship 21 exited.
+INFO - [14.612]: Ship 51 obtained tug 3.
+INFO - [14.612]: Ship 51 starts docking.
+INFO - [14.687]: Ship 23 exited.
+INFO - [14.687]: Ship 47 obtained dock.
+INFO - [14.954]: Ship 53 arrived!
+INFO - [14.988]: Ship 25 exited.
+INFO - [14.988]: Ship 48 obtained dock.
+INFO - [15.063]: Ship 45 completed docking.
+INFO - [15.063]: Ship 49 obtained dock.
+INFO - [15.098]: Ship 28 exited.
+INFO - [15.098]: Ship 47 obtained tug 4.
+INFO - [15.098]: Ship 47 starts docking.
+INFO - [15.107]: Ship 46 completed docking.
+INFO - [15.107]: Ship 48 obtained tug 2.
+INFO - [15.107]: Ship 48 starts docking.
+INFO - [15.119]: Ship 44 completed docking.
+INFO - [15.119]: Ship 49 obtained tug 6.
+INFO - [15.119]: Ship 49 starts docking.
+INFO - [15.579]: Ship 54 arrived!
+INFO - [15.579]: Ship 55 arrived!
+INFO - [15.652]: Ship 27 exited.
+INFO - [15.652]: Ship 50 obtained dock.
+INFO - [15.680]: Ship 51 completed docking.
+INFO - [15.680]: Ship 52 obtained dock.
+INFO - [15.784]: Ship 56 arrived!
+INFO - [15.879]: Ship 30 exited.
+INFO - [15.879]: Ship 53 obtained dock.
+INFO - [15.984]: Ship 57 arrived!
+INFO - [15.987]: Ship 26 exited.
+INFO - [15.987]: Ship 54 obtained dock.
+INFO - [16.028]: Ship 49 completed docking.
+INFO - [16.028]: Ship 50 obtained tug 6.
+INFO - [16.028]: Ship 50 starts docking.
+INFO - [16.055]: Ship 29 exited.
+INFO - [16.055]: Ship 52 obtained tug 0.
+INFO - [16.055]: Ship 52 starts docking.
+INFO - [16.112]: Ship 47 completed docking.
+INFO - [16.112]: Ship 53 obtained tug 4.
+INFO - [16.112]: Ship 53 starts docking.
+INFO - [16.255]: Ship 48 completed docking.
+INFO - [16.255]: Ship 55 obtained dock.
+INFO - [16.514]: Ship 58 arrived!
+INFO - [16.592]: Ship 59 arrived!
+INFO - [16.719]: Ship 37 exited.
+INFO - [16.719]: Ship 54 obtained tug 1.
+INFO - [16.719]: Ship 54 starts docking.
+INFO - [16.727]: Ship 32 exited.
+INFO - [16.727]: Ship 55 obtained tug 3.
+INFO - [16.727]: Ship 55 starts docking.
+INFO - [16.859]: Ship 52 completed docking.
+INFO - [16.859]: Ship 56 obtained dock.
+INFO - [16.867]: Ship 31 exited.
+INFO - [16.867]: Ship 56 obtained tug 7.
+INFO - [16.867]: Ship 56 starts docking.
+INFO - [16.888]: Ship 53 completed docking.
+INFO - [16.912]: Ship 57 obtained dock.
+INFO - [16.942]: Ship 35 exited.
+INFO - [16.942]: Ship 57 obtained tug 5.
+INFO - [16.942]: Ship 57 starts docking.
+INFO - [17.062]: Ship 60 arrived!
+INFO - [17.154]: Ship 61 arrived!
+INFO - [17.162]: Ship 50 completed docking.
+INFO - [17.162]: Ship 58 obtained dock.
+INFO - [17.212]: Ship 36 exited.
+INFO - [17.212]: Ship 58 obtained tug 2.
+INFO - [17.212]: Ship 58 starts docking.
+INFO - [17.616]: Ship 54 completed docking.
+INFO - [17.616]: Ship 59 obtained dock.
+INFO - [17.667]: Ship 56 completed docking.
+INFO - [17.667]: Ship 59 obtained tug 7.
+INFO - [17.667]: Ship 59 starts docking.
+INFO - [17.721]: Ship 38 exited.
+INFO - [17.798]: Ship 55 completed docking.
+INFO - [17.971]: Ship 34 exited.
+INFO - [18.074]: Ship 57 completed docking.
+INFO - [18.124]: Ship 58 completed docking.
+INFO - [18.163]: Ship 62 arrived!
+INFO - [18.206]: Ship 60 obtained dock.
+INFO - [18.206]: Ship 60 obtained tug 3.
+INFO - [18.206]: Ship 60 starts docking.
+INFO - [18.259]: Ship 61 obtained dock.
+INFO - [18.259]: Ship 61 obtained tug 5.
+INFO - [18.259]: Ship 61 starts docking.
+INFO - [18.320]: Ship 33 exited.
+INFO - [18.466]: Ship 62 obtained dock.
+INFO - [18.466]: Ship 62 obtained tug 6.
+INFO - [18.466]: Ship 62 starts docking.
+INFO - [18.501]: Special ship 63 arrived!
+INFO - [18.560]: Ship 41 exited.
+INFO - [18.728]: Ship 59 completed docking.
+INFO - [18.761]: Ship 64 arrived!
+INFO - [18.782]: Ship 65 arrived!
+INFO - [18.852]: Ship 66 arrived!
+INFO - [18.911]: Ship 67 arrived!
+INFO - [18.934]: Ship 63 obtained dock.
+INFO - [18.934]: Ship 63 obtained tug 7.
+INFO - [18.934]: Ship 63 starts docking.
+INFO - [19.190]: Ship 39 exited.
+INFO - [19.190]: Ship 64 obtained dock.
+INFO - [19.207]: Ship 42 exited.
+INFO - [19.207]: Ship 64 obtained tug 0.
+INFO - [19.207]: Ship 64 starts docking.
+INFO - [19.355]: Ship 60 completed docking.
+INFO - [19.371]: Ship 65 obtained dock.
+INFO - [19.395]: Ship 61 completed docking.
+INFO - [19.395]: Ship 65 obtained tug 5.
+INFO - [19.395]: Ship 65 starts docking.
+INFO - [19.604]: Ship 62 completed docking.
+INFO - [19.655]: Ship 40 exited.
+INFO - [19.657]: Special ship 68 arrived!
+INFO - [19.793]: Ship 68 obtained dock.
+INFO - [19.793]: Ship 68 obtained tug 2.
+INFO - [19.793]: Ship 68 starts docking.
+INFO - [19.825]: Special ship 69 arrived!
+INFO - [19.954]: Ship 51 exited.
+INFO - [19.954]: Ship 69 obtained dock.
+INFO - [19.982]: Ship 70 arrived!
+INFO - [19.998]: Ship 63 completed docking.
+INFO - [19.998]: Ship 69 obtained tug 7.
+INFO - [19.998]: Ship 69 starts docking.
+INFO - [20.096]: Ship 45 exited.
+INFO - [20.096]: Ship 66 obtained dock.
+INFO - [20.104]: Ship 71 arrived!
+INFO - [20.213]: Ship 64 completed docking.
+INFO - [20.213]: Ship 66 obtained tug 0.
+INFO - [20.213]: Ship 66 starts docking.
+INFO - [20.237]: Ship 72 arrived!
+INFO - [20.327]: Ship 43 exited.
+INFO - [20.352]: Ship 65 completed docking.
+INFO - [20.388]: Ship 67 obtained dock.
+INFO - [20.388]: Ship 67 obtained tug 5.
+INFO - [20.388]: Ship 67 starts docking.
+INFO - [20.436]: Ship 73 arrived!
+INFO - [20.473]: Special ship 74 arrived!
+INFO - [20.823]: Ship 68 completed docking.
+INFO - [20.823]: Ship 74 obtained dock.
+INFO - [20.899]: Ship 44 exited.
+INFO - [20.899]: Ship 70 obtained dock.
+INFO - [20.904]: Ship 46 exited.
+INFO - [20.904]: Ship 74 obtained tug 4.
+INFO - [20.904]: Ship 74 starts docking.
+INFO - [20.966]: Ship 66 completed docking.
+INFO - [20.966]: Ship 70 obtained tug 0.
+INFO - [20.966]: Ship 70 starts docking.
+INFO - [21.001]: Ship 48 exited.
+INFO - [21.107]: Ship 69 completed docking.
+INFO - [21.224]: Ship 71 obtained dock.
+INFO - [21.224]: Ship 71 obtained tug 7.
+INFO - [21.224]: Ship 71 starts docking.
+INFO - [21.255]: Ship 75 arrived!
+INFO - [21.299]: Ship 52 exited.
+INFO - [21.389]: Ship 72 obtained dock.
+INFO - [21.393]: Ship 67 completed docking.
+INFO - [21.393]: Ship 72 obtained tug 5.
+INFO - [21.393]: Ship 72 starts docking.
+INFO - [21.477]: Special ship 76 arrived!
+INFO - [21.666]: Ship 77 arrived!
+INFO - [21.833]: Ship 49 exited.
+INFO - [21.833]: Ship 76 obtained dock.
+INFO - [21.878]: Ship 53 exited.
+INFO - [21.878]: Ship 73 obtained dock.
+INFO - [21.879]: Ship 70 completed docking.
+INFO - [21.879]: Ship 76 obtained tug 0.
+INFO - [21.879]: Ship 76 starts docking.
+INFO - [21.935]: Ship 78 arrived!
+INFO - [21.994]: Ship 79 arrived!
+INFO - [22.092]: Special ship 80 arrived!
+INFO - [22.110]: Ship 47 exited.
+INFO - [22.110]: Ship 73 obtained tug 6.
+INFO - [22.110]: Ship 73 starts docking.
+INFO - [22.169]: Ship 74 completed docking.
+INFO - [22.206]: Tug 7 scheduled for maintenance!
+INFO - [22.250]: Ship 81 arrived!
+INFO - [22.312]: Ship 71 completed docking.
+INFO - [22.312]: Tug 7 in maintenance!
+INFO - [22.476]: Ship 56 exited.
+INFO - [22.484]: Ship 82 arrived!
+INFO - [22.563]: Ship 72 completed docking.
+INFO - [22.590]: Ship 80 obtained dock.
+INFO - [22.590]: Ship 80 obtained tug 3.
+INFO - [22.590]: Ship 80 starts docking.
+INFO - [22.610]: Ship 83 arrived!
+INFO - [22.767]: Ship 76 completed docking.
+INFO - [22.777]: Ship 50 exited.
+INFO - [22.795]: Ship 75 obtained dock.
+INFO - [22.795]: Ship 75 obtained tug 0.
+INFO - [22.795]: Ship 75 starts docking.
+INFO - [22.811]: Ship 84 arrived!
+INFO - [22.820]: Ship 85 arrived!
+INFO - [22.828]: Ship 77 obtained dock.
+INFO - [23.006]: Ship 86 arrived!
+INFO - [23.057]: Ship 54 exited.
+INFO - [23.057]: Ship 77 obtained tug 1.
+INFO - [23.057]: Ship 77 starts docking.
+INFO - [23.175]: Ship 87 arrived!
+INFO - [23.177]: Ship 73 completed docking.
+INFO - [23.309]: Tug 3 scheduled for maintenance!
+INFO - [23.393]: Ship 59 exited.
+INFO - [23.398]: Special ship 88 arrived!
+INFO - [23.405]: Ship 88 obtained dock.
+INFO - [23.405]: Ship 88 obtained tug 4.
+INFO - [23.405]: Ship 88 starts docking.
+INFO - [23.506]: Special ship 89 arrived!
+INFO - [23.674]: Ship 90 arrived!
+INFO - [23.695]: Ship 75 completed docking.
+INFO - [23.699]: Ship 89 obtained dock.
+INFO - [23.739]: Ship 58 exited.
+INFO - [23.739]: Ship 89 obtained tug 2.
+INFO - [23.739]: Ship 89 starts docking.
+INFO - [23.767]: Ship 91 arrived!
+INFO - [23.780]: Ship 57 exited.
+INFO - [23.846]: Ship 92 arrived!
+INFO - [23.855]: Ship 80 completed docking.
+INFO - [23.855]: Tug 3 in maintenance!
+INFO - [23.873]: Ship 78 obtained dock.
+INFO - [23.888]: Ship 93 arrived!
+INFO - [23.890]: Ship 94 arrived!
+INFO - [24.088]: Ship 95 arrived!
+INFO - [24.179]: Ship 96 arrived!
+INFO - [24.205]: Ship 97 arrived!
+INFO - [24.222]: Ship 77 completed docking.
+INFO - [24.222]: Ship 79 obtained dock.
+INFO - [24.239]: Ship 88 completed docking.
+INFO - [24.239]: Ship 78 obtained tug 4.
+INFO - [24.239]: Ship 78 starts docking.
+INFO - [24.468]: Ship 98 arrived!
+INFO - [24.525]: Ship 55 exited.
+INFO - [24.525]: Ship 79 obtained tug 6.
+INFO - [24.525]: Ship 79 starts docking.
+INFO - [24.646]: Ship 99 arrived!
+INFO - [24.671]: Tug 2 scheduled for maintenance!
+INFO - [24.698]: Ship 62 exited.
+INFO - [24.729]: Tug 0 in maintenance!
+INFO - [24.738]: Tug 7 finished maintenance!
+INFO - [24.738]: Ship 81 obtained dock.
+INFO - [24.773]: Ship 89 completed docking.
+INFO - [24.773]: Tug 2 in maintenance!
+INFO - [24.827]: Ship 60 exited.
+INFO - [24.827]: Ship 82 obtained dock.
+INFO - [25.117]: Ship 61 exited.
+INFO - [25.117]: Ship 83 obtained dock.
+INFO - [25.224]: Ship 78 completed docking.
+INFO - [25.224]: Ship 81 obtained tug 4.
+INFO - [25.224]: Ship 81 starts docking.
+INFO - [25.457]: Ship 100 arrived!
+INFO - [25.472]: Tug 0 finished maintenance!
+INFO - [25.472]: Ship 84 obtained dock.
+INFO - [25.616]: Ship 79 completed docking.
+INFO - [25.616]: Ship 85 obtained dock.
+INFO - [25.694]: Ship 101 arrived!
+INFO - [25.702]: Ship 65 exited.
+INFO - [25.702]: Ship 82 obtained tug 7.
+INFO - [25.702]: Ship 82 starts docking.
+INFO - [25.729]: Ship 102 arrived!
+INFO - [25.804]: Ship 63 exited.
+INFO - [25.804]: Ship 83 obtained tug 5.
+INFO - [25.804]: Ship 83 starts docking.
+INFO - [25.952]: Ship 103 arrived!
+INFO - [26.068]: Ship 64 exited.
+INFO - [26.068]: Ship 84 obtained tug 1.
+INFO - [26.068]: Ship 84 starts docking.
+INFO - [26.192]: Ship 104 arrived!
+INFO - [26.357]: Ship 68 exited.
+INFO - [26.357]: Ship 86 obtained dock.
+INFO - [26.420]: Ship 81 completed docking.
+INFO - [26.420]: Ship 87 obtained dock.
+INFO - [26.473]: Ship 105 arrived!
+INFO - [26.649]: Ship 82 completed docking.
+INFO - [26.649]: Ship 90 obtained dock.
+INFO - [26.704]: Ship 106 arrived!
+INFO - [26.712]: Ship 107 arrived!
+INFO - [26.718]: Ship 69 exited.
+INFO - [26.718]: Ship 91 obtained dock.
+INFO - [26.721]: Ship 108 arrived!
+INFO - [26.722]: Ship 109 arrived!
+INFO - [26.747]: Special ship 110 arrived!
+INFO - [26.842]: Ship 83 completed docking.
+INFO - [26.842]: Ship 85 obtained tug 5.
+INFO - [26.842]: Ship 85 starts docking.
+INFO - [26.944]: Special ship 111 arrived!
+INFO - [27.023]: Ship 112 arrived!
+INFO - [27.093]: Ship 84 completed docking.
+INFO - [27.093]: Ship 110 obtained dock.
+INFO - [27.127]: Ship 113 arrived!
+INFO - [27.163]: Ship 114 arrived!
+INFO - [27.205]: Ship 66 exited.
+INFO - [27.205]: Ship 110 obtained tug 0.
+INFO - [27.205]: Ship 110 starts docking.
+INFO - [27.335]: Tug 6 scheduled for maintenance!
+INFO - [27.446]: Tug 3 finished maintenance!
+INFO - [27.446]: Ship 111 obtained dock.
+INFO - [27.469]: Ship 67 exited.
+INFO - [27.469]: Ship 111 obtained tug 4.
+INFO - [27.469]: Ship 111 starts docking.
+INFO - [27.565]: Ship 71 exited.
+INFO - [27.565]: Ship 86 obtained tug 7.
+INFO - [27.565]: Ship 86 starts docking.
+INFO - [27.653]: Ship 115 arrived!
+INFO - [27.656]: Ship 74 exited.
+INFO - [27.656]: Tug 6 in maintenance!
+INFO - [27.701]: Ship 85 completed docking.
+INFO - [27.701]: Ship 87 obtained tug 5.
+INFO - [27.701]: Ship 87 starts docking.
+INFO - [27.898]: Ship 116 arrived!
+INFO - [28.080]: Ship 117 arrived!
+INFO - [28.082]: Ship 72 exited.
+INFO - [28.082]: Ship 92 obtained dock.
+INFO - [28.304]: Ship 110 completed docking.
+INFO - [28.304]: Ship 93 obtained dock.
+INFO - [28.381]: Tug 1 scheduled for maintenance!
+INFO - [28.427]: Ship 86 completed docking.
+INFO - [28.427]: Ship 94 obtained dock.
+INFO - [28.522]: Ship 70 exited.
+INFO - [28.522]: Ship 95 obtained dock.
+INFO - [28.542]: Ship 118 arrived!
+INFO - [28.557]: Ship 111 completed docking.
+INFO - [28.557]: Ship 96 obtained dock.
+INFO - [28.579]: Ship 119 arrived!
+INFO - [28.626]: Tug 2 finished maintenance!
+INFO - [28.626]: Ship 97 obtained dock.
+INFO - [28.658]: Ship 87 completed docking.
+INFO - [28.658]: Ship 90 obtained tug 5.
+INFO - [28.658]: Ship 90 starts docking.
+INFO - [28.684]: Ship 120 arrived!
+INFO - [28.729]: Tug 4 scheduled for maintenance!
+INFO - [28.835]: Ship 121 arrived!
+INFO - [29.138]: Ship 76 exited.
+INFO - [29.138]: Tug 1 in maintenance!
+INFO - [29.247]: Ship 122 arrived!
+INFO - [29.248]: Ship 80 exited.
+INFO - [29.248]: Ship 98 obtained dock.
+INFO - [29.479]: Ship 73 exited.
+INFO - [29.479]: Ship 99 obtained dock.
+INFO - [29.485]: Ship 77 exited.
+INFO - [29.485]: Ship 91 obtained tug 7.
+INFO - [29.485]: Ship 91 starts docking.
+INFO - [29.515]: Tug 5 scheduled for maintenance!
+INFO - [29.615]: Ship 88 exited.
+INFO - [29.615]: Tug 4 in maintenance!
+INFO - [29.639]: Ship 75 exited.
+INFO - [29.639]: Ship 92 obtained tug 2.
+INFO - [29.639]: Ship 92 starts docking.
+INFO - [29.812]: Ship 90 completed docking.
+INFO - [29.812]: Tug 5 in maintenance!
+INFO - [29.917]: Ship 123 arrived!
+INFO - [30.194]: Ship 124 arrived!
+INFO - [30.231]: Ship 89 exited.
+INFO - [30.231]: Ship 100 obtained dock.
+INFO - [30.364]: Ship 91 completed docking.
+INFO - [30.364]: Ship 93 obtained tug 7.
+INFO - [30.364]: Ship 93 starts docking.
+INFO - [30.481]: Ship 125 arrived!
+INFO - [30.509]: Ship 92 completed docking.
+INFO - [30.509]: Ship 94 obtained tug 2.
+INFO - [30.509]: Ship 94 starts docking.
+INFO - [30.551]: Ship 78 exited.
+INFO - [30.551]: Ship 95 obtained tug 3.
+INFO - [30.551]: Ship 95 starts docking.
+INFO - [30.688]: Ship 126 arrived!
+INFO - [30.718]: Ship 127 arrived!
+INFO - [31.227]: Ship 79 exited.
+INFO - [31.227]: Ship 101 obtained dock.
+INFO - [31.334]: Ship 93 completed docking.
+INFO - [31.334]: Ship 102 obtained dock.
+INFO - [31.526]: Ship 94 completed docking.
+INFO - [31.526]: Ship 103 obtained dock.
+INFO - [31.538]: Ship 95 completed docking.
+INFO - [31.538]: Ship 104 obtained dock.
+INFO - [31.944]: Ship 128 arrived!
+INFO - [32.094]: Ship 84 exited.
+INFO - [32.094]: Ship 105 obtained dock.
+INFO - [32.154]: Ship 129 arrived!
+INFO - [32.251]: Ship 81 exited.
+INFO - [32.251]: Ship 106 obtained dock.
+INFO - [32.286]: Ship 130 arrived!
+INFO - [32.290]: Ship 82 exited.
+INFO - [32.290]: Ship 96 obtained tug 0.
+INFO - [32.290]: Ship 96 starts docking.
+INFO - [32.618]: Ship 83 exited.
+INFO - [32.618]: Ship 107 obtained dock.
+INFO - [32.782]: Ship 131 arrived!
+INFO - [32.864]: Special ship 132 arrived!
+INFO - [33.019]: Ship 85 exited.
+INFO - [33.019]: Ship 132 obtained dock.
+INFO - [33.159]: Special ship 133 arrived!
+INFO - [33.231]: Ship 96 completed docking.
+INFO - [33.231]: Ship 132 obtained tug 0.
+INFO - [33.231]: Ship 132 starts docking.
+INFO - [33.272]: Ship 110 exited.
+INFO - [33.272]: Ship 133 obtained dock.
+INFO - [33.287]: Ship 134 arrived!
+INFO - [33.888]: Ship 111 exited.
+INFO - [33.888]: Ship 133 obtained tug 3.
+INFO - [33.888]: Ship 133 starts docking.
+INFO - [33.912]: Ship 86 exited.
+INFO - [33.912]: Ship 97 obtained tug 7.
+INFO - [33.912]: Ship 97 starts docking.
+INFO - [34.013]: Ship 132 completed docking.
+INFO - [34.013]: Ship 98 obtained tug 0.
+INFO - [34.013]: Ship 98 starts docking.
+INFO - [34.106]: Ship 135 arrived!
+INFO - [34.189]: Ship 136 arrived!
+INFO - [34.269]: Ship 137 arrived!
+INFO - [34.357]: Ship 87 exited.
+INFO - [34.357]: Ship 108 obtained dock.
+INFO - [34.847]: Ship 98 completed docking.
+INFO - [34.847]: Ship 109 obtained dock.
+INFO - [34.941]: Ship 97 completed docking.
+INFO - [34.941]: Ship 112 obtained dock.
+INFO - [34.945]: Ship 133 completed docking.
+INFO - [34.945]: Ship 99 obtained tug 3.
+INFO - [34.945]: Ship 99 starts docking.
+INFO - [35.346]: Ship 138 arrived!
+INFO - [35.439]: Ship 90 exited.
+INFO - [35.439]: Ship 113 obtained dock.
+INFO - [35.448]: Ship 139 arrived!
+INFO - [35.478]: Ship 140 arrived!
+INFO - [35.572]: Ship 141 arrived!
+INFO - [35.662]: Ship 92 exited.
+INFO - [35.662]: Ship 100 obtained tug 0.
+INFO - [35.662]: Ship 100 starts docking.
+INFO - [35.766]: Ship 142 arrived!
+INFO - [35.841]: Ship 91 exited.
+INFO - [35.841]: Ship 101 obtained tug 7.
+INFO - [35.841]: Ship 101 starts docking.
+INFO - [35.927]: Ship 143 arrived!
+INFO - [35.973]: Ship 99 completed docking.
+INFO - [35.973]: Ship 114 obtained dock.
+INFO - [36.191]: Special ship 144 arrived!
+INFO - [36.358]: Tug 5 finished maintenance!
+INFO - [36.358]: Ship 144 obtained dock.
+INFO - [36.426]: Ship 94 exited.
+INFO - [36.426]: Ship 144 obtained tug 2.
+INFO - [36.426]: Ship 144 starts docking.
+INFO - [36.492]: Ship 100 completed docking.
+INFO - [36.492]: Ship 102 obtained tug 0.
+INFO - [36.492]: Ship 102 starts docking.
+INFO - [36.498]: Ship 145 arrived!
+INFO - [36.592]: Ship 146 arrived!
+INFO - [36.794]: Ship 147 arrived!
+INFO - [36.846]: Ship 148 arrived!
+INFO - [36.918]: Ship 101 completed docking.
+INFO - [36.918]: Ship 103 obtained tug 7.
+INFO - [36.918]: Ship 103 starts docking.
+INFO - [37.018]: Ship 149 arrived!
+INFO - [37.133]: Ship 150 arrived!
+INFO - [37.145]: Ship 95 exited.
+INFO - [37.145]: Ship 104 obtained tug 3.
+INFO - [37.145]: Ship 104 starts docking.
+INFO - [37.164]: Special ship 151 arrived!
+INFO - [37.281]: Ship 93 exited.
+INFO - [37.281]: Ship 105 obtained tug 5.
+INFO - [37.281]: Ship 105 starts docking.
+INFO - [37.510]: Ship 102 completed docking.
+INFO - [37.510]: Ship 106 obtained tug 0.
+INFO - [37.510]: Ship 106 starts docking.
+INFO - [37.660]: Ship 144 completed docking.
+INFO - [37.660]: Ship 107 obtained tug 2.
+INFO - [37.660]: Ship 107 starts docking.
+INFO - [37.664]: Ship 152 arrived!
+INFO - [37.858]: Ship 153 arrived!
+INFO - [38.004]: Ship 103 completed docking.
+INFO - [38.004]: Ship 108 obtained tug 7.
+INFO - [38.004]: Ship 108 starts docking.
+INFO - [38.053]: Ship 154 arrived!
+INFO - [38.197]: Ship 155 arrived!
+INFO - [38.271]: Ship 104 completed docking.
+INFO - [38.271]: Ship 151 obtained dock.
+INFO - [38.453]: Ship 106 completed docking.
+INFO - [38.453]: Ship 115 obtained dock.
+INFO - [38.609]: Ship 105 completed docking.
+INFO - [38.609]: Ship 151 obtained tug 5.
+INFO - [38.609]: Ship 151 starts docking.
+INFO - [38.644]: Ship 156 arrived!
+INFO - [38.725]: Ship 107 completed docking.
+INFO - [38.725]: Ship 116 obtained dock.
+INFO - [38.994]: Ship 108 completed docking.
+INFO - [38.994]: Ship 117 obtained dock.
+INFO - [39.247]: Ship 132 exited.
+INFO - [39.247]: Ship 109 obtained tug 3.
+INFO - [39.247]: Ship 109 starts docking.
+INFO - [39.318]: Ship 151 completed docking.
+INFO - [39.318]: Ship 112 obtained tug 5.
+INFO - [39.318]: Ship 112 starts docking.
+INFO - [39.405]: Ship 96 exited.
+INFO - [39.405]: Ship 118 obtained dock.
+INFO - [39.488]: Tug 4 finished maintenance!
+INFO - [39.488]: Ship 113 obtained tug 4.
+INFO - [39.488]: Ship 113 starts docking.
+INFO - [39.925]: Ship 98 exited.
+INFO - [39.925]: Ship 114 obtained tug 2.
+INFO - [39.925]: Ship 114 starts docking.
+INFO - [40.007]: Ship 133 exited.
+INFO - [40.007]: Ship 115 obtained tug 7.
+INFO - [40.007]: Ship 115 starts docking.
+INFO - [40.183]: Ship 157 arrived!
+INFO - [40.300]: Ship 158 arrived!
+INFO - [40.329]: Ship 97 exited.
+INFO - [40.329]: Ship 119 obtained dock.
+INFO - [40.503]: Ship 112 completed docking.
+INFO - [40.503]: Ship 116 obtained tug 5.
+INFO - [40.503]: Ship 116 starts docking.
+INFO - [40.582]: Ship 109 completed docking.
+INFO - [40.582]: Ship 117 obtained tug 3.
+INFO - [40.582]: Ship 117 starts docking.
+INFO - [40.610]: Ship 113 completed docking.
+INFO - [40.610]: Ship 118 obtained tug 4.
+INFO - [40.610]: Ship 118 starts docking.
+INFO - [40.682]: Ship 159 arrived!
+INFO - [40.819]: Ship 160 arrived!
+INFO - [40.836]: Ship 161 arrived!
+INFO - [40.910]: Ship 162 arrived!
+INFO - [40.968]: Ship 114 completed docking.
+INFO - [40.968]: Ship 120 obtained dock.
+INFO - [41.034]: Ship 115 completed docking.
+INFO - [41.034]: Ship 121 obtained dock.
+INFO - [41.113]: Ship 163 arrived!
+INFO - [41.338]: Ship 117 completed docking.
+INFO - [41.338]: Ship 122 obtained dock.
+INFO - [41.368]: Ship 116 completed docking.
+INFO - [41.368]: Ship 123 obtained dock.
+INFO - [41.402]: Ship 100 exited.
+INFO - [41.402]: Ship 119 obtained tug 0.
+INFO - [41.402]: Ship 119 starts docking.
+INFO - [41.449]: Ship 164 arrived!
+INFO - [41.486]: Ship 165 arrived!
+INFO - [41.594]: Ship 118 completed docking.
+INFO - [41.594]: Ship 124 obtained dock.
+INFO - [41.701]: Ship 101 exited.
+INFO - [41.701]: Ship 125 obtained dock.
+INFO - [41.789]: Tug 0 scheduled for maintenance!
+INFO - [42.013]: Ship 166 arrived!
+INFO - [42.071]: Special ship 167 arrived!
+INFO - [42.127]: Ship 144 exited.
+INFO - [42.127]: Ship 167 obtained dock.
+INFO - [42.258]: Ship 102 exited.
+INFO - [42.258]: Ship 167 obtained tug 5.
+INFO - [42.258]: Ship 167 starts docking.
+INFO - [42.328]: Ship 99 exited.
+INFO - [42.328]: Ship 120 obtained tug 3.
+INFO - [42.328]: Ship 120 starts docking.
+INFO - [42.384]: Special ship 168 arrived!
+INFO - [42.399]: Ship 104 exited.
+INFO - [42.399]: Ship 121 obtained tug 4.
+INFO - [42.399]: Ship 121 starts docking.
+INFO - [42.470]: Ship 119 completed docking.
+INFO - [42.470]: Tug 0 in maintenance!
+INFO - [42.646]: Ship 169 arrived!
+INFO - [42.835]: Ship 170 arrived!
+INFO - [42.866]: Ship 103 exited.
+INFO - [42.866]: Ship 168 obtained dock.
+INFO - [43.112]: Ship 105 exited.
+INFO - [43.112]: Ship 168 obtained tug 7.
+INFO - [43.112]: Ship 168 starts docking.
+INFO - [43.290]: Ship 121 completed docking.
+INFO - [43.290]: Ship 126 obtained dock.
+INFO - [43.365]: Ship 167 completed docking.
+INFO - [43.365]: Ship 122 obtained tug 5.
+INFO - [43.365]: Ship 122 starts docking.
+INFO - [43.428]: Ship 171 arrived!
+INFO - [43.600]: Ship 172 arrived!
+INFO - [43.641]: Ship 173 arrived!
+INFO - [43.670]: Ship 120 completed docking.
+INFO - [43.670]: Ship 127 obtained dock.
+INFO - [43.695]: Ship 174 arrived!
+INFO - [43.729]: Ship 175 arrived!
+INFO - [43.836]: Ship 106 exited.
+INFO - [43.836]: Ship 128 obtained dock.
+INFO - [44.001]: Ship 176 arrived!
+INFO - [44.228]: Ship 168 completed docking.
+INFO - [44.228]: Ship 123 obtained tug 7.
+INFO - [44.228]: Ship 123 starts docking.
+INFO - [44.323]: Ship 122 completed docking.
+INFO - [44.323]: Ship 124 obtained tug 5.
+INFO - [44.323]: Ship 124 starts docking.
+INFO - [44.337]: Tug 0 finished maintenance!
+INFO - [44.337]: Ship 125 obtained tug 0.
+INFO - [44.337]: Ship 125 starts docking.
+INFO - [44.340]: Ship 108 exited.
+INFO - [44.340]: Ship 126 obtained tug 4.
+INFO - [44.340]: Ship 126 starts docking.
+INFO - [44.385]: Ship 177 arrived!
+INFO - [44.625]: Ship 151 exited.
+INFO - [44.625]: Ship 129 obtained dock.
+INFO - [44.642]: Ship 178 arrived!
+INFO - [44.684]: Tug 6 finished maintenance!
+INFO - [44.684]: Ship 130 obtained dock.
+INFO - [44.690]: Ship 179 arrived!
+INFO - [44.709]: Tug 7 scheduled for maintenance!
+INFO - [44.985]: Ship 107 exited.
+INFO - [44.985]: Ship 131 obtained dock.
+INFO - [45.145]: Ship 123 completed docking.
+INFO - [45.145]: Tug 7 in maintenance!
+INFO - [45.203]: Ship 124 completed docking.
+INFO - [45.203]: Ship 134 obtained dock.
+INFO - [45.302]: Special ship 180 arrived!
+INFO - [45.331]: Ship 126 completed docking.
+INFO - [45.331]: Ship 180 obtained dock.
+INFO - [45.415]: Special ship 181 arrived!
+INFO - [45.508]: Ship 125 completed docking.
+INFO - [45.508]: Ship 181 obtained dock.
+INFO - [45.647]: Ship 182 arrived!
+INFO - [45.690]: Ship 114 exited.
+INFO - [45.690]: Ship 180 obtained tug 3.
+INFO - [45.690]: Ship 180 starts docking.
+INFO - [45.762]: Ship 109 exited.
+INFO - [45.762]: Ship 135 obtained dock.
+INFO - [45.932]: Ship 117 exited.
+INFO - [45.932]: Ship 181 obtained tug 2.
+INFO - [45.932]: Ship 181 starts docking.
+INFO - [46.071]: Ship 183 arrived!
+INFO - [46.092]: Ship 184 arrived!
+INFO - [46.166]: Ship 113 exited.
+INFO - [46.166]: Ship 127 obtained tug 5.
+INFO - [46.166]: Ship 127 starts docking.
+INFO - [46.256]: Ship 185 arrived!
+INFO - [46.299]: Tug 7 finished maintenance!
+INFO - [46.299]: Ship 128 obtained tug 7.
+INFO - [46.299]: Ship 128 starts docking.
+INFO - [46.327]: Ship 186 arrived!
+INFO - [46.449]: Ship 187 arrived!
+INFO - [46.469]: Ship 116 exited.
+INFO - [46.469]: Ship 129 obtained tug 0.
+INFO - [46.469]: Ship 129 starts docking.
+INFO - [46.570]: Ship 112 exited.
+INFO - [46.570]: Ship 136 obtained dock.
+INFO - [46.609]: Special ship 188 arrived!
+INFO - [46.692]: Ship 127 completed docking.
+INFO - [46.692]: Ship 188 obtained dock.
+INFO - [46.717]: Ship 180 completed docking.
+INFO - [46.717]: Ship 188 obtained tug 3.
+INFO - [46.717]: Ship 188 starts docking.
+INFO - [46.796]: Ship 118 exited.
+INFO - [46.796]: Ship 137 obtained dock.
+INFO - [47.074]: Ship 181 completed docking.
+INFO - [47.074]: Ship 138 obtained dock.
+INFO - [47.433]: Ship 189 arrived!
+INFO - [47.435]: Special ship 190 arrived!
+INFO - [47.448]: Ship 128 completed docking.
+INFO - [47.448]: Ship 190 obtained dock.
+INFO - [47.472]: Ship 129 completed docking.
+INFO - [47.472]: Ship 190 obtained tug 0.
+INFO - [47.472]: Ship 190 starts docking.
+INFO - [47.710]: Ship 115 exited.
+INFO - [47.710]: Ship 130 obtained tug 4.
+INFO - [47.710]: Ship 130 starts docking.
+INFO - [47.716]: Ship 188 completed docking.
+INFO - [47.716]: Ship 131 obtained tug 3.
+INFO - [47.716]: Ship 131 starts docking.
+INFO - [47.795]: Ship 167 exited.
+INFO - [47.795]: Ship 139 obtained dock.
+INFO - [47.816]: Ship 119 exited.
+INFO - [47.816]: Ship 134 obtained tug 5.
+INFO - [47.816]: Ship 134 starts docking.
+INFO - [47.968]: Tug 3 scheduled for maintenance!
+INFO - [48.102]: Ship 191 arrived!
+INFO - [48.182]: Ship 192 arrived!
+INFO - [48.205]: Ship 121 exited.
+INFO - [48.205]: Ship 140 obtained dock.
+INFO - [48.326]: Ship 193 arrived!
+INFO - [48.327]: Ship 120 exited.
+INFO - [48.327]: Ship 135 obtained tug 7.
+INFO - [48.327]: Ship 135 starts docking.
+INFO - [48.400]: Ship 194 arrived!
+INFO - [48.401]: Ship 190 completed docking.
+INFO - [48.401]: Ship 136 obtained tug 0.
+INFO - [48.401]: Ship 136 starts docking.
+INFO - [48.527]: Ship 130 completed docking.
+INFO - [48.527]: Ship 141 obtained dock.
+INFO - [48.758]: Ship 131 completed docking.
+INFO - [48.758]: Tug 3 in maintenance!
+INFO - [48.810]: Ship 122 exited.
+INFO - [48.810]: Ship 137 obtained tug 6.
+INFO - [48.810]: Ship 137 starts docking.
+INFO - [48.923]: Ship 134 completed docking.
+INFO - [48.923]: Ship 142 obtained dock.
+INFO - [48.998]: Ship 168 exited.
+INFO - [48.998]: Ship 138 obtained tug 2.
+INFO - [48.998]: Ship 138 starts docking.
+INFO - [49.112]: Ship 195 arrived!
+INFO - [49.217]: Ship 196 arrived!
+INFO - [49.247]: Ship 197 arrived!
+INFO - [49.277]: Ship 198 arrived!
+INFO - [49.290]: Ship 136 completed docking.
+INFO - [49.290]: Ship 139 obtained tug 0.
+INFO - [49.290]: Ship 139 starts docking.
+INFO - [49.391]: Special ship 199 arrived!
+INFO - [49.405]: Ship 135 completed docking.
+INFO - [49.405]: Ship 140 obtained tug 7.
+INFO - [49.405]: Ship 140 starts docking.
+INFO - [49.687]: Ship 124 exited.
+INFO - [49.687]: Ship 199 obtained dock.
+INFO - [49.733]: Ship 123 exited.
+INFO - [49.733]: Ship 199 obtained tug 5.
+INFO - [49.733]: Ship 199 starts docking.
+INFO - [49.904]: Ship 138 completed docking.
+INFO - [49.904]: Ship 141 obtained tug 2.
+INFO - [49.904]: Ship 141 starts docking.
+INFO - [49.922]: Ship 137 completed docking.
+INFO - [49.922]: Ship 142 obtained tug 6.
+INFO - [49.922]: Ship 142 starts docking.
+INFO - [49.928]: Ship 200 arrived!
+INFO - [50.088]: Special ship 201 arrived!
+INFO - [50.212]: Ship 139 completed docking.
+INFO - [50.212]: Ship 201 obtained dock.
+INFO - [50.292]: Ship 202 arrived!
+INFO - [50.329]: Special ship 203 arrived!
+INFO - [50.397]: Ship 140 completed docking.
+INFO - [50.397]: Ship 203 obtained dock.
+INFO - [50.544]: Ship 204 arrived!
+INFO - [50.571]: Ship 205 arrived!
+INFO - [50.590]: Ship 206 arrived!
+INFO - [50.627]: Ship 207 arrived!
+INFO - [50.636]: Ship 126 exited.
+INFO - [50.636]: Ship 201 obtained tug 4.
+INFO - [50.636]: Ship 201 starts docking.
+INFO - [50.645]: Ship 208 arrived!
+INFO - [50.817]: Ship 142 completed docking.
+INFO - [50.817]: Ship 143 obtained dock.
+INFO - [50.818]: Special ship 209 arrived!
+INFO - [50.853]: Ship 199 completed docking.
+INFO - [50.853]: Ship 209 obtained dock.
+INFO - [50.897]: Tug 1 finished maintenance!
+INFO - [50.897]: Ship 203 obtained tug 1.
+INFO - [50.897]: Ship 203 starts docking.
+INFO - [50.981]: Ship 210 arrived!
+INFO - [51.035]: Ship 141 completed docking.
+INFO - [51.035]: Ship 209 obtained tug 2.
+INFO - [51.035]: Ship 209 starts docking.
+INFO - [51.061]: Ship 211 arrived!
+INFO - [51.109]: Ship 125 exited.
+INFO - [51.109]: Ship 143 obtained tug 0.
+INFO - [51.109]: Ship 143 starts docking.
+INFO - [51.342]: Ship 212 arrived!
+INFO - [51.376]: Tug 2 scheduled for maintenance!
+INFO - [51.415]: Ship 213 arrived!
+INFO - [51.458]: Ship 214 arrived!
+INFO - [51.530]: Ship 181 exited.
+INFO - [51.552]: Ship 145 obtained dock.
+INFO - [51.623]: Ship 201 completed docking.
+INFO - [51.623]: Ship 145 obtained tug 4.
+INFO - [51.623]: Ship 145 starts docking.
+INFO - [51.630]: Special ship 215 arrived!
+INFO - [51.633]: Ship 216 arrived!
+INFO - [51.719]: Ship 217 arrived!
+INFO - [51.825]: Ship 127 exited.
+INFO - [51.899]: Ship 215 obtained dock.
+INFO - [51.916]: Ship 143 completed docking.
+INFO - [51.916]: Ship 215 obtained tug 0.
+INFO - [51.916]: Ship 215 starts docking.
+INFO - [51.945]: Ship 180 exited.
+INFO - [51.951]: Ship 203 completed docking.
+INFO - [52.027]: Ship 218 arrived!
+INFO - [52.032]: Ship 146 obtained dock.
+INFO - [52.032]: Ship 146 obtained tug 1.
+INFO - [52.032]: Ship 146 starts docking.
+INFO - [52.123]: Ship 219 arrived!
+INFO - [52.131]: Ship 209 completed docking.
+INFO - [52.131]: Tug 2 in maintenance!
+INFO - [52.366]: Ship 220 arrived!
+INFO - [52.524]: Ship 128 exited.
+INFO - [52.524]: Ship 147 obtained dock.
+INFO - [52.562]: Ship 145 completed docking.
+INFO - [52.562]: Ship 148 obtained dock.
+INFO - [52.672]: Special ship 221 arrived!
+INFO - [52.808]: Ship 222 arrived!
+INFO - [52.870]: Ship 188 exited.
+INFO - [52.870]: Ship 147 obtained tug 5.
+INFO - [52.870]: Ship 147 starts docking.
+INFO - [53.014]: Ship 215 completed docking.
+INFO - [53.014]: Ship 221 obtained dock.
+INFO - [53.031]: Ship 223 arrived!
+INFO - [53.088]: Ship 146 completed docking.
+INFO - [53.088]: Ship 221 obtained tug 1.
+INFO - [53.088]: Ship 221 starts docking.
+INFO - [53.182]: Ship 130 exited.
+INFO - [53.182]: Ship 149 obtained dock.
+INFO - [53.240]: Ship 224 arrived!
+INFO - [53.362]: Ship 190 exited.
+INFO - [53.362]: Ship 150 obtained dock.
+INFO - [53.595]: Ship 225 arrived!
+INFO - [53.683]: Ship 129 exited.
+INFO - [53.683]: Ship 152 obtained dock.
+INFO - [53.782]: Ship 147 completed docking.
+INFO - [53.782]: Ship 153 obtained dock.
+INFO - [53.849]: Special ship 226 arrived!
+INFO - [53.944]: Ship 134 exited.
+INFO - [53.944]: Ship 148 obtained tug 0.
+INFO - [53.944]: Ship 148 starts docking.
+INFO - [54.173]: Ship 221 completed docking.
+INFO - [54.173]: Ship 226 obtained dock.
+INFO - [54.232]: Ship 138 exited.
+INFO - [54.232]: Ship 226 obtained tug 7.
+INFO - [54.232]: Ship 226 starts docking.
+INFO - [54.399]: Ship 131 exited.
+INFO - [54.399]: Ship 154 obtained dock.
+INFO - [54.594]: Ship 227 arrived!
+INFO - [54.688]: Ship 228 arrived!
+INFO - [54.724]: Ship 229 arrived!
+INFO - [54.740]: Ship 136 exited.
+INFO - [54.740]: Ship 155 obtained dock.
+INFO - [54.892]: Ship 135 exited.
+INFO - [54.892]: Ship 156 obtained dock.
+INFO - [54.983]: Ship 230 arrived!
+INFO - [54.997]: Ship 226 completed docking.
+INFO - [54.997]: Ship 149 obtained tug 7.
+INFO - [54.997]: Ship 149 starts docking.
+INFO - [55.073]: Ship 148 completed docking.
+INFO - [55.073]: Ship 150 obtained tug 0.
+INFO - [55.073]: Ship 150 starts docking.
+INFO - [55.115]: Ship 140 exited.
+INFO - [55.115]: Ship 152 obtained tug 1.
+INFO - [55.115]: Ship 152 starts docking.
+INFO - [55.270]: Ship 231 arrived!
+INFO - [55.460]: Ship 139 exited.
+INFO - [55.460]: Ship 157 obtained dock.
+INFO - [55.841]: Ship 232 arrived!
+INFO - [55.858]: Ship 199 exited.
+INFO - [55.858]: Ship 158 obtained dock.
+INFO - [55.892]: Ship 137 exited.
+INFO - [55.892]: Ship 159 obtained dock.
+INFO - [55.900]: Ship 233 arrived!
+INFO - [55.911]: Ship 150 completed docking.
+INFO - [55.911]: Ship 153 obtained tug 0.
+INFO - [55.911]: Ship 153 starts docking.
+INFO - [55.989]: Ship 149 completed docking.
+INFO - [55.989]: Ship 154 obtained tug 7.
+INFO - [55.989]: Ship 154 starts docking.
+INFO - [56.098]: Ship 234 arrived!
+INFO - [56.348]: Ship 235 arrived!
+INFO - [56.387]: Ship 152 completed docking.
+INFO - [56.387]: Ship 160 obtained dock.
+INFO - [56.479]: Ship 201 exited.
+INFO - [56.479]: Ship 161 obtained dock.
+INFO - [56.718]: Ship 236 arrived!
+INFO - [56.856]: Ship 141 exited.
+INFO - [56.856]: Ship 162 obtained dock.
+INFO - [56.967]: Ship 153 completed docking.
+INFO - [56.967]: Ship 163 obtained dock.
+INFO - [57.079]: Ship 154 completed docking.
+INFO - [57.079]: Ship 155 obtained tug 7.
+INFO - [57.079]: Ship 155 starts docking.
+INFO - [57.088]: Ship 203 exited.
+INFO - [57.088]: Ship 156 obtained tug 4.
+INFO - [57.088]: Ship 156 starts docking.
+INFO - [57.111]: Ship 209 exited.
+INFO - [57.111]: Ship 157 obtained tug 1.
+INFO - [57.111]: Ship 157 starts docking.
+INFO - [57.350]: Ship 237 arrived!
+INFO - [57.477]: Ship 238 arrived!
+INFO - [57.671]: Ship 143 exited.
+INFO - [57.671]: Ship 164 obtained dock.
+INFO - [57.760]: Ship 215 exited.
+INFO - [57.760]: Ship 165 obtained dock.
+INFO - [57.819]: Ship 155 completed docking.
+INFO - [57.819]: Ship 158 obtained tug 7.
+INFO - [57.819]: Ship 158 starts docking.
+INFO - [57.825]: Tug 2 finished maintenance!
+INFO - [57.825]: Ship 159 obtained tug 2.
+INFO - [57.825]: Ship 159 starts docking.
+INFO - [57.865]: Ship 142 exited.
+INFO - [57.865]: Ship 160 obtained tug 0.
+INFO - [57.865]: Ship 160 starts docking.
+INFO - [57.948]: Ship 239 arrived!
+INFO - [57.992]: Ship 156 completed docking.
+INFO - [57.992]: Ship 166 obtained dock.
+INFO - [58.042]: Ship 157 completed docking.
+INFO - [58.042]: Ship 161 obtained tug 1.
+INFO - [58.042]: Ship 161 starts docking.
+INFO - [58.549]: Ship 240 arrived!
+INFO - [58.626]: Ship 158 completed docking.
+INFO - [58.626]: Ship 162 obtained tug 7.
+INFO - [58.626]: Ship 162 starts docking.
+INFO - [58.713]: Ship 145 exited.
+INFO - [58.713]: Ship 163 obtained tug 6.
+INFO - [58.713]: Ship 163 starts docking.
+INFO - [58.757]: Ship 241 arrived!
+INFO - [58.834]: Ship 159 completed docking.
+INFO - [58.834]: Ship 169 obtained dock.
+INFO - [58.905]: Ship 146 exited.
+INFO - [58.905]: Ship 164 obtained tug 5.
+INFO - [58.905]: Ship 164 starts docking.
+INFO - [58.977]: Ship 160 completed docking.
+INFO - [58.977]: Ship 165 obtained tug 0.
+INFO - [58.977]: Ship 165 starts docking.
+INFO - [58.979]: Ship 242 arrived!
+INFO - [59.036]: Ship 161 completed docking.
+INFO - [59.036]: Ship 166 obtained tug 1.
+INFO - [59.036]: Ship 166 starts docking.
+INFO - [59.049]: Special ship 243 arrived!
+INFO - [59.085]: Ship 244 arrived!
+INFO - [59.160]: Ship 147 exited.
+INFO - [59.160]: Ship 243 obtained dock.
+INFO - [59.264]: Ship 245 arrived!
+INFO - [59.631]: Ship 162 completed docking.
+INFO - [59.631]: Ship 170 obtained dock.
+INFO - [59.641]: Ship 163 completed docking.
+INFO - [59.641]: Ship 243 obtained tug 6.
+INFO - [59.641]: Ship 243 starts docking.
+INFO - [59.791]: Ship 221 exited.
+INFO - [59.791]: Ship 169 obtained tug 2.
+INFO - [59.791]: Ship 169 starts docking.
+INFO - [59.799]: Special ship 246 arrived!
+INFO - [59.928]: Ship 165 completed docking.
+INFO - [59.928]: Ship 170 obtained tug 0.
+INFO - [59.928]: Ship 170 starts docking.
+INFO - [60.027]: Ship 247 arrived!
+INFO - [60.031]: Ship 166 completed docking.
+INFO - [60.031]: Ship 246 obtained dock.
+INFO - [60.048]: Ship 164 completed docking.
+INFO - [60.048]: Ship 246 obtained tug 5.
+INFO - [60.048]: Ship 246 starts docking.
+INFO - [60.125]: Ship 148 exited.
+INFO - [60.183]: Special ship 248 arrived!
+INFO - [60.272]: Ship 248 obtained dock.
+INFO - [60.617]: Ship 249 arrived!
+INFO - [60.651]: Ship 250 arrived!
+INFO - [60.714]: Ship 243 completed docking.
+INFO - [60.714]: Ship 248 obtained tug 6.
+INFO - [60.714]: Ship 248 starts docking.
+INFO - [60.725]: Ship 170 completed docking.
+INFO - [60.725]: Ship 171 obtained dock.
+INFO - [60.757]: Ship 169 completed docking.
+INFO - [60.757]: Ship 172 obtained dock.
+INFO - [60.813]: Ship 149 exited.
+INFO - [60.813]: Ship 171 obtained tug 1.
+INFO - [60.813]: Ship 171 starts docking.
+INFO - [60.974]: Ship 226 exited.
+INFO - [60.974]: Ship 173 obtained dock.
+INFO - [61.117]: Ship 246 completed docking.
+INFO - [61.117]: Ship 172 obtained tug 5.
+INFO - [61.117]: Ship 172 starts docking.
+INFO - [61.133]: Ship 251 arrived!
+INFO - [61.383]: Ship 252 arrived!
+INFO - [61.428]: Ship 150 exited.
+INFO - [61.428]: Ship 174 obtained dock.
+INFO - [61.530]: Tug 3 finished maintenance!
+INFO - [61.530]: Ship 173 obtained tug 3.
+INFO - [61.530]: Ship 173 starts docking.
+INFO - [61.571]: Ship 253 arrived!
+INFO - [61.680]: Ship 153 exited.
+INFO - [61.680]: Ship 175 obtained dock.
+INFO - [61.878]: Ship 248 completed docking.
+INFO - [61.878]: Ship 174 obtained tug 6.
+INFO - [61.878]: Ship 174 starts docking.
+INFO - [61.898]: Ship 154 exited.
+INFO - [61.898]: Ship 175 obtained tug 2.
+INFO - [61.898]: Ship 175 starts docking.
+INFO - [61.923]: Ship 171 completed docking.
+INFO - [61.951]: Ship 254 arrived!
+INFO - [61.970]: Ship 152 exited.
+INFO - [62.044]: Ship 172 completed docking.
+INFO - [62.106]: Ship 176 obtained dock.
+INFO - [62.106]: Ship 176 obtained tug 7.
+INFO - [62.106]: Ship 176 starts docking.
+INFO - [62.229]: Ship 255 arrived!
+INFO - [62.333]: Ship 155 exited.
+INFO - [62.566]: Ship 157 exited.
+INFO - [62.577]: Ship 256 arrived!
+INFO - [62.685]: Ship 173 completed docking.
+INFO - [62.745]: Ship 174 completed docking.
+INFO - [62.786]: Ship 177 obtained dock.
+INFO - [62.786]: Ship 177 obtained tug 4.
+INFO - [62.786]: Ship 177 starts docking.
+INFO - [62.881]: Ship 178 obtained dock.
+INFO - [62.881]: Ship 178 obtained tug 3.
+INFO - [62.881]: Ship 178 starts docking.
+INFO - [62.890]: Ship 175 completed docking.
+INFO - [62.915]: Ship 257 arrived!
+INFO - [62.938]: Ship 258 arrived!
+INFO - [62.995]: Ship 156 exited.
+INFO - [63.015]: Ship 179 obtained dock.
+INFO - [63.015]: Ship 179 obtained tug 2.
+INFO - [63.015]: Ship 179 starts docking.
+INFO - [63.192]: Ship 182 obtained dock.
+INFO - [63.287]: Ship 176 completed docking.
+INFO - [63.287]: Ship 182 obtained tug 7.
+INFO - [63.287]: Ship 182 starts docking.
+INFO - [63.665]: Ship 259 arrived!
+INFO - [63.681]: Ship 178 completed docking.
+INFO - [63.681]: Ship 183 obtained dock.
+INFO - [63.763]: Ship 161 exited.
+INFO - [63.763]: Ship 184 obtained dock.
+INFO - [63.767]: Ship 177 completed docking.
+INFO - [63.767]: Ship 183 obtained tug 4.
+INFO - [63.767]: Ship 183 starts docking.
+INFO - [63.892]: Ship 159 exited.
+INFO - [63.892]: Ship 184 obtained tug 0.
+INFO - [63.892]: Ship 184 starts docking.
+INFO - [63.966]: Ship 158 exited.
+INFO - [63.966]: Ship 185 obtained dock.
+INFO - [63.998]: Ship 179 completed docking.
+INFO - [63.998]: Ship 185 obtained tug 2.
+INFO - [63.998]: Ship 185 starts docking.
+INFO - [64.146]: Ship 260 arrived!
+INFO - [64.237]: Ship 162 exited.
+INFO - [64.237]: Ship 186 obtained dock.
+INFO - [64.240]: Ship 182 completed docking.
+INFO - [64.240]: Ship 186 obtained tug 7.
+INFO - [64.240]: Ship 186 starts docking.
+INFO - [64.329]: Ship 261 arrived!
+INFO - [64.449]: Ship 262 arrived!
+INFO - [64.469]: Ship 263 arrived!
+INFO - [64.506]: Ship 264 arrived!
+INFO - [64.587]: Ship 183 completed docking.
+INFO - [64.587]: Ship 187 obtained dock.
+INFO - [64.599]: Ship 163 exited.
+INFO - [64.599]: Ship 187 obtained tug 5.
+INFO - [64.599]: Ship 187 starts docking.
+INFO - [64.632]: Ship 265 arrived!
+INFO - [64.711]: Ship 266 arrived!
+INFO - [64.747]: Ship 166 exited.
+INFO - [64.747]: Ship 189 obtained dock.
+INFO - [64.827]: Ship 185 completed docking.
+INFO - [64.827]: Ship 191 obtained dock.
+INFO - [64.838]: Ship 160 exited.
+INFO - [64.838]: Ship 192 obtained dock.
+INFO - [64.905]: Ship 184 completed docking.
+INFO - [64.905]: Ship 193 obtained dock.
+INFO - [65.066]: Ship 267 arrived!
+INFO - [65.350]: Ship 186 completed docking.
+INFO - [65.350]: Ship 189 obtained tug 7.
+INFO - [65.350]: Ship 189 starts docking.
+INFO - [65.365]: Ship 165 exited.
+INFO - [65.365]: Ship 191 obtained tug 1.
+INFO - [65.365]: Ship 191 starts docking.
+INFO - [65.593]: Ship 187 completed docking.
+INFO - [65.593]: Ship 192 obtained tug 5.
+INFO - [65.593]: Ship 192 starts docking.
+INFO - [65.805]: Ship 243 exited.
+INFO - [65.805]: Ship 193 obtained tug 6.
+INFO - [65.805]: Ship 193 starts docking.
+INFO - [65.820]: Ship 170 exited.
+INFO - [65.848]: Ship 164 exited.
+INFO - [65.854]: Ship 268 arrived!
+INFO - [65.858]: Ship 194 obtained dock.
+INFO - [65.858]: Ship 194 obtained tug 4.
+INFO - [65.858]: Ship 194 starts docking.
+INFO - [66.065]: Ship 169 exited.
+INFO - [66.074]: Ship 189 completed docking.
+INFO - [66.074]: Ship 246 exited.
+INFO - [66.106]: Ship 195 obtained dock.
+INFO - [66.106]: Ship 195 obtained tug 7.
+INFO - [66.106]: Ship 195 starts docking.
+INFO - [66.163]: Tug 0 scheduled for maintenance!
+INFO - [66.199]: Ship 191 completed docking.
+INFO - [66.282]: Ship 269 arrived!
+INFO - [66.329]: Ship 196 obtained dock.
+INFO - [66.329]: Ship 196 obtained tug 1.
+INFO - [66.329]: Ship 196 starts docking.
+INFO - [66.504]: Ship 192 completed docking.
+INFO - [66.504]: Ship 197 obtained dock.
+INFO - [66.571]: Ship 270 arrived!
+INFO - [66.600]: Ship 271 arrived!
+INFO - [66.647]: Ship 272 arrived!
+INFO - [66.729]: Ship 193 completed docking.
+INFO - [66.729]: Ship 198 obtained dock.
+INFO - [66.852]: Ship 194 completed docking.
+INFO - [66.852]: Ship 200 obtained dock.
+INFO - [66.918]: Ship 195 completed docking.
+INFO - [66.918]: Ship 202 obtained dock.
+INFO - [66.928]: Ship 171 exited.
+INFO - [66.928]: Ship 197 obtained tug 3.
+INFO - [66.928]: Ship 197 starts docking.
+INFO - [67.018]: Ship 273 arrived!
+INFO - [67.103]: Tug 5 scheduled for maintenance!
+INFO - [67.104]: Ship 173 exited.
+INFO - [67.104]: Tug 0 in maintenance!
+INFO - [67.124]: Ship 274 arrived!
+INFO - [67.141]: Tug 0 finished maintenance!
+INFO - [67.141]: Ship 198 obtained tug 0.
+INFO - [67.141]: Ship 198 starts docking.
+INFO - [67.165]: Tug 4 scheduled for maintenance!
+INFO - [67.286]: Ship 196 completed docking.
+INFO - [67.286]: Ship 200 obtained tug 1.
+INFO - [67.286]: Ship 200 starts docking.
+INFO - [67.438]: Ship 176 exited.
+INFO - [67.438]: Ship 202 obtained tug 2.
+INFO - [67.438]: Ship 202 starts docking.
+INFO - [67.479]: Ship 275 arrived!
+INFO - [67.622]: Ship 276 arrived!
+INFO - [67.715]: Ship 172 exited.
+INFO - [67.715]: Tug 4 in maintenance!
+INFO - [67.777]: Ship 248 exited.
+INFO - [67.824]: Ship 174 exited.
+INFO - [67.824]: Tug 5 in maintenance!
+INFO - [67.910]: Ship 277 arrived!
+INFO - [67.937]: Ship 175 exited.
+INFO - [67.989]: Ship 197 completed docking.
+INFO - [68.040]: Ship 204 obtained dock.
+INFO - [68.040]: Ship 204 obtained tug 7.
+INFO - [68.040]: Ship 204 starts docking.
+INFO - [68.168]: Ship 198 completed docking.
+INFO - [68.168]: Ship 200 completed docking.
+INFO - [68.292]: Special ship 278 arrived!
+INFO - [68.384]: Ship 278 obtained dock.
+INFO - [68.384]: Ship 278 obtained tug 0.
+INFO - [68.384]: Ship 278 starts docking.
+INFO - [68.452]: Ship 202 completed docking.
+INFO - [68.501]: Ship 279 arrived!
+INFO - [68.590]: Ship 280 arrived!
+INFO - [68.634]: Ship 281 arrived!
+INFO - [68.669]: Ship 205 obtained dock.
+INFO - [68.669]: Ship 205 obtained tug 2.
+INFO - [68.669]: Ship 205 starts docking.
+INFO - [68.795]: Ship 282 arrived!
+INFO - [68.816]: Ship 283 arrived!
+INFO - [68.909]: Ship 178 exited.
+INFO - [68.909]: Ship 206 obtained dock.
+INFO - [68.998]: Ship 284 arrived!
+INFO - [69.154]: Ship 204 completed docking.
+INFO - [69.154]: Ship 207 obtained dock.
+INFO - [69.443]: Ship 278 completed docking.
+INFO - [69.443]: Ship 208 obtained dock.
+INFO - [69.462]: Ship 285 arrived!
+INFO - [69.517]: Ship 177 exited.
+INFO - [69.517]: Ship 210 obtained dock.
+INFO - [69.531]: Ship 179 exited.
+INFO - [69.531]: Ship 211 obtained dock.
+INFO - [69.620]: Ship 286 arrived!
+INFO - [69.867]: Ship 287 arrived!
+INFO - [69.886]: Ship 205 completed docking.
+INFO - [69.886]: Ship 212 obtained dock.
+INFO - [69.949]: Ship 182 exited.
+INFO - [69.949]: Ship 213 obtained dock.
+INFO - [70.019]: Ship 184 exited.
+INFO - [70.019]: Ship 214 obtained dock.
+INFO - [70.079]: Ship 288 arrived!
+INFO - [70.200]: Ship 289 arrived!
+INFO - [70.441]: Ship 183 exited.
+INFO - [70.441]: Ship 216 obtained dock.
+INFO - [70.466]: Ship 185 exited.
+INFO - [70.466]: Ship 206 obtained tug 1.
+INFO - [70.466]: Ship 206 starts docking.
+INFO - [70.495]: Ship 186 exited.
+INFO - [70.495]: Ship 217 obtained dock.
+INFO - [70.516]: Ship 290 arrived!
+INFO - [70.752]: Ship 291 arrived!
+INFO - [70.854]: Ship 187 exited.
+INFO - [70.854]: Ship 207 obtained tug 2.
+INFO - [70.854]: Ship 207 starts docking.
+INFO - [70.913]: Ship 193 exited.
+INFO - [70.913]: Ship 208 obtained tug 6.
+INFO - [70.913]: Ship 208 starts docking.
+INFO - [70.998]: Tug 4 finished maintenance!
+INFO - [70.998]: Ship 210 obtained tug 4.
+INFO - [70.998]: Ship 210 starts docking.
+INFO - [71.121]: Ship 194 exited.
+INFO - [71.121]: Ship 211 obtained tug 7.
+INFO - [71.121]: Ship 211 starts docking.
+INFO - [71.129]: Ship 292 arrived!
+INFO - [71.180]: Tug 6 scheduled for maintenance!
+INFO - [71.407]: Ship 206 completed docking.
+INFO - [71.407]: Ship 218 obtained dock.
+INFO - [71.409]: Ship 293 arrived!
+INFO - [71.445]: Ship 189 exited.
+INFO - [71.445]: Ship 219 obtained dock.
+INFO - [71.651]: Ship 191 exited.
+INFO - [71.651]: Ship 220 obtained dock.
+INFO - [71.701]: Ship 294 arrived!
+INFO - [71.752]: Special ship 295 arrived!
+INFO - [71.922]: Ship 207 completed docking.
+INFO - [71.922]: Ship 295 obtained dock.
+INFO - [71.973]: Ship 296 arrived!
+INFO - [71.987]: Ship 297 arrived!
+INFO - [72.084]: Ship 210 completed docking.
+INFO - [72.084]: Ship 295 obtained tug 4.
+INFO - [72.084]: Ship 295 starts docking.
+INFO - [72.124]: Ship 211 completed docking.
+INFO - [72.124]: Ship 212 obtained tug 7.
+INFO - [72.124]: Ship 212 starts docking.
+INFO - [72.146]: Ship 208 completed docking.
+INFO - [72.146]: Tug 6 in maintenance!
+INFO - [72.151]: Ship 298 arrived!
+INFO - [72.211]: Ship 196 exited.
+INFO - [72.211]: Ship 213 obtained tug 1.
+INFO - [72.211]: Ship 213 starts docking.
+INFO - [72.382]: Ship 195 exited.
+INFO - [72.382]: Ship 214 obtained tug 3.
+INFO - [72.382]: Ship 214 starts docking.
+INFO - [72.550]: Ship 299 arrived!
+INFO - [72.606]: Ship 192 exited.
+INFO - [72.606]: Ship 222 obtained dock.
+INFO - [72.641]: Ship 300 arrived!
+INFO - [72.671]: Ship 301 arrived!
+INFO - [72.750]: Ship 302 arrived!
+INFO - [72.952]: Ship 303 arrived!
+INFO - [72.955]: Ship 304 arrived!
+INFO - [73.029]: Ship 295 completed docking.
+INFO - [73.029]: Ship 223 obtained dock.
+INFO - [73.044]: Ship 197 exited.
+INFO - [73.044]: Ship 224 obtained dock.
+INFO - [73.055]: Ship 305 arrived!
+INFO - [73.183]: Ship 306 arrived!
+INFO - [73.250]: Ship 307 arrived!
+INFO - [73.258]: Ship 214 completed docking.
+INFO - [73.258]: Ship 225 obtained dock.
+INFO - [73.287]: Ship 213 completed docking.
+INFO - [73.287]: Ship 216 obtained tug 1.
+INFO - [73.287]: Ship 216 starts docking.
+INFO - [73.353]: Ship 308 arrived!
+INFO - [73.390]: Ship 278 exited.
+INFO - [73.390]: Ship 217 obtained tug 0.
+INFO - [73.390]: Ship 217 starts docking.
+INFO - [73.450]: Ship 212 completed docking.
+INFO - [73.450]: Ship 218 obtained tug 7.
+INFO - [73.450]: Ship 218 starts docking.
+INFO - [73.624]: Special ship 309 arrived!
+INFO - [73.910]: Ship 198 exited.
+INFO - [73.910]: Ship 219 obtained tug 4.
+INFO - [73.910]: Ship 219 starts docking.
+INFO - [73.942]: Ship 310 arrived!
+INFO - [73.985]: Special ship 311 arrived!
+INFO - [74.048]: Ship 200 exited.
+INFO - [74.048]: Ship 309 obtained dock.
+INFO - [74.195]: Ship 216 completed docking.
+INFO - [74.195]: Ship 309 obtained tug 1.
+INFO - [74.195]: Ship 309 starts docking.
+INFO - [74.267]: Ship 217 completed docking.
+INFO - [74.267]: Ship 311 obtained dock.
+INFO - [74.360]: Ship 312 arrived!
+INFO - [74.485]: Ship 202 exited.
+INFO - [74.485]: Ship 311 obtained tug 3.
+INFO - [74.485]: Ship 311 starts docking.
+INFO - [74.511]: Special ship 313 arrived!
+INFO - [74.514]: Ship 218 completed docking.
+INFO - [74.514]: Ship 220 obtained tug 7.
+INFO - [74.514]: Ship 220 starts docking.
+INFO - [74.694]: Ship 314 arrived!
+INFO - [74.881]: Ship 315 arrived!
+INFO - [74.894]: Special ship 316 arrived!
+INFO - [74.924]: Ship 205 exited.
+INFO - [74.924]: Ship 222 obtained tug 0.
+INFO - [74.924]: Ship 222 starts docking.
+INFO - [74.930]: Ship 219 completed docking.
+INFO - [74.930]: Ship 223 obtained tug 4.
+INFO - [74.930]: Ship 223 starts docking.
+INFO - [75.192]: Tug 6 finished maintenance!
+INFO - [75.192]: Ship 224 obtained tug 6.
+INFO - [75.192]: Ship 224 starts docking.
+INFO - [75.349]: Ship 309 completed docking.
+INFO - [75.349]: Ship 225 obtained tug 1.
+INFO - [75.349]: Ship 225 starts docking.
+INFO - [75.352]: Ship 204 exited.
+INFO - [75.389]: Tug 7 scheduled for maintenance!
+INFO - [75.445]: Ship 317 arrived!
+INFO - [75.449]: Special ship 318 arrived!
+INFO - [75.519]: Ship 311 completed docking.
+INFO - [75.546]: Ship 222 completed docking.
+INFO - [75.683]: Ship 220 completed docking.
+INFO - [75.683]: Tug 7 in maintenance!
+INFO - [75.701]: Ship 313 obtained dock.
+INFO - [75.701]: Ship 313 obtained tug 3.
+INFO - [75.701]: Ship 313 starts docking.
+INFO - [75.730]: Ship 316 obtained dock.
+INFO - [75.753]: Tug 7 finished maintenance!
+INFO - [75.753]: Ship 316 obtained tug 7.
+INFO - [75.753]: Ship 316 starts docking.
+INFO - [75.825]: Ship 223 completed docking.
+INFO - [75.834]: Ship 318 obtained dock.
+INFO - [76.062]: Ship 319 arrived!
+INFO - [76.083]: Ship 224 completed docking.
+INFO - [76.083]: Ship 318 obtained tug 6.
+INFO - [76.083]: Ship 318 starts docking.
+INFO - [76.307]: Ship 225 completed docking.
+INFO - [76.307]: Ship 227 obtained dock.
+INFO - [76.382]: Tug 1 scheduled for maintenance!
+INFO - [76.602]: Ship 313 completed docking.
+INFO - [76.602]: Ship 227 obtained tug 3.
+INFO - [76.602]: Ship 227 starts docking.
+INFO - [76.642]: Ship 208 exited.
+INFO - [76.666]: Ship 206 exited.
+INFO - [76.691]: Ship 320 arrived!
+INFO - [76.701]: Ship 228 obtained dock.
+INFO - [76.701]: Ship 228 obtained tug 0.
+INFO - [76.701]: Ship 228 starts docking.
+INFO - [76.728]: Ship 316 completed docking.
+INFO - [76.729]: Ship 211 exited.
+INFO - [76.780]: Ship 229 obtained dock.
+INFO - [76.780]: Ship 229 obtained tug 4.
+INFO - [76.780]: Ship 229 starts docking.
+INFO - [76.911]: Ship 321 arrived!
+INFO - [76.947]: Ship 322 arrived!
+INFO - [77.039]: Ship 323 arrived!
+INFO - [77.079]: Ship 318 completed docking.
+INFO - [77.153]: Ship 324 arrived!
+INFO - [77.243]: Ship 325 arrived!
+INFO - [77.278]: Ship 326 arrived!
+INFO - [77.281]: Ship 207 exited.
+INFO - [77.281]: Tug 1 in maintenance!
+INFO - [77.453]: Ship 227 completed docking.
+INFO - [77.518]: Ship 230 obtained dock.
+INFO - [77.518]: Ship 230 obtained tug 3.
+INFO - [77.518]: Ship 230 starts docking.
+INFO - [77.671]: Ship 327 arrived!
+INFO - [77.709]: Ship 228 completed docking.
+INFO - [77.709]: Ship 231 obtained dock.
+INFO - [77.734]: Ship 210 exited.
+INFO - [77.734]: Ship 232 obtained dock.
+INFO - [77.800]: Ship 295 exited.
+INFO - [77.800]: Ship 231 obtained tug 7.
+INFO - [77.800]: Ship 231 starts docking.
+INFO - [77.803]: Tug 3 scheduled for maintenance!
+INFO - [77.877]: Ship 229 completed docking.
+INFO - [77.877]: Ship 232 obtained tug 4.
+INFO - [77.877]: Ship 232 starts docking.
+INFO - [78.152]: Ship 328 arrived!
+INFO - [78.158]: Special ship 329 arrived!
+INFO - [78.436]: Ship 230 completed docking.
+INFO - [78.436]: Tug 3 in maintenance!
+INFO - [78.488]: Ship 213 exited.
+INFO - [78.488]: Ship 329 obtained dock.
+INFO - [78.500]: Ship 330 arrived!
+INFO - [78.786]: Ship 231 completed docking.
+INFO - [78.786]: Ship 233 obtained dock.
+INFO - [78.790]: Ship 331 arrived!
+INFO - [78.846]: Ship 214 exited.
+INFO - [78.846]: Ship 234 obtained dock.
+INFO - [78.991]: Ship 212 exited.
+INFO - [78.991]: Ship 235 obtained dock.
+INFO - [79.039]: Ship 232 completed docking.
+INFO - [79.039]: Ship 329 obtained tug 4.
+INFO - [79.039]: Ship 329 starts docking.
+INFO - [79.211]: Ship 332 arrived!
+INFO - [79.619]: Ship 217 exited.
+INFO - [79.619]: Ship 236 obtained dock.
+INFO - [79.641]: Ship 218 exited.
+INFO - [79.641]: Ship 237 obtained dock.
+INFO - [79.683]: Ship 333 arrived!
+INFO - [79.840]: Ship 216 exited.
+INFO - [79.840]: Ship 238 obtained dock.
+INFO - [79.907]: Tug 3 finished maintenance!
+INFO - [79.907]: Ship 239 obtained dock.
+INFO - [79.997]: Ship 329 completed docking.
+INFO - [79.997]: Ship 233 obtained tug 4.
+INFO - [79.997]: Ship 233 starts docking.
+INFO - [80.067]: Ship 219 exited.
+INFO - [80.067]: Ship 234 obtained tug 0.
+INFO - [80.067]: Ship 234 starts docking.
+INFO - [80.128]: Tug 5 finished maintenance!
+INFO - [80.128]: Ship 235 obtained tug 5.
+INFO - [80.128]: Ship 235 starts docking.
+INFO - [80.713]: Ship 311 exited.
+INFO - [80.713]: Ship 240 obtained dock.
+INFO - [80.746]: Ship 309 exited.
+INFO - [80.746]: Ship 241 obtained dock.
+INFO - [80.768]: Ship 222 exited.
+INFO - [80.768]: Ship 242 obtained dock.
+INFO - [80.820]: Ship 233 completed docking.
+INFO - [80.820]: Ship 236 obtained tug 4.
+INFO - [80.820]: Ship 236 starts docking.
+INFO - [80.865]: Ship 223 exited.
+INFO - [80.865]: Ship 237 obtained tug 3.
+INFO - [80.865]: Ship 237 starts docking.
+INFO - [80.922]: Ship 235 completed docking.
+INFO - [80.922]: Ship 238 obtained tug 5.
+INFO - [80.922]: Ship 238 starts docking.
+INFO - [81.004]: Ship 234 completed docking.
+INFO - [81.004]: Ship 239 obtained tug 0.
+INFO - [81.004]: Ship 239 starts docking.
+INFO - [81.121]: Ship 334 arrived!
+INFO - [81.301]: Ship 335 arrived!
+INFO - [81.684]: Ship 220 exited.
+INFO - [81.684]: Ship 244 obtained dock.
+INFO - [81.687]: Ship 336 arrived!
+INFO - [81.688]: Ship 224 exited.
+INFO - [81.688]: Ship 245 obtained dock.
+INFO - [81.729]: Ship 337 arrived!
+INFO - [81.875]: Ship 237 completed docking.
+INFO - [81.875]: Ship 247 obtained dock.
+INFO - [81.898]: Ship 236 completed docking.
+INFO - [81.898]: Ship 249 obtained dock.
+INFO - [81.944]: Ship 225 exited.
+INFO - [81.944]: Ship 250 obtained dock.
+INFO - [81.946]: Ship 338 arrived!
+INFO - [81.950]: Ship 238 completed docking.
+INFO - [81.950]: Ship 240 obtained tug 5.
+INFO - [81.950]: Ship 240 starts docking.
+INFO - [81.977]: Ship 339 arrived!
+INFO - [82.111]: Ship 239 completed docking.
+INFO - [82.111]: Ship 241 obtained tug 0.
+INFO - [82.111]: Ship 241 starts docking.
+INFO - [82.199]: Ship 340 arrived!
+INFO - [82.397]: Tug 2 scheduled for maintenance!
+INFO - [82.522]: Ship 313 exited.
+INFO - [82.522]: Ship 251 obtained dock.
+INFO - [82.543]: Ship 341 arrived!
+INFO - [82.581]: Special ship 342 arrived!
+INFO - [82.656]: Ship 343 arrived!
+INFO - [82.688]: Ship 316 exited.
+INFO - [82.688]: Ship 342 obtained dock.
+INFO - [82.729]: Ship 344 arrived!
+INFO - [82.764]: Ship 345 arrived!
+INFO - [82.834]: Ship 346 arrived!
+INFO - [82.905]: Ship 318 exited.
+INFO - [82.905]: Ship 252 obtained dock.
+INFO - [82.942]: Ship 227 exited.
+INFO - [82.942]: Ship 253 obtained dock.
+INFO - [83.009]: Ship 240 completed docking.
+INFO - [83.009]: Ship 342 obtained tug 5.
+INFO - [83.009]: Ship 342 starts docking.
+INFO - [83.106]: Ship 229 exited.
+INFO - [83.106]: Tug 2 in maintenance!
+INFO - [83.210]: Ship 241 completed docking.
+INFO - [83.210]: Ship 242 obtained tug 0.
+INFO - [83.210]: Ship 242 starts docking.
+INFO - [83.242]: Ship 347 arrived!
+INFO - [83.283]: Ship 348 arrived!
+INFO - [83.330]: Tug 1 finished maintenance!
+INFO - [83.330]: Ship 244 obtained tug 1.
+INFO - [83.330]: Ship 244 starts docking.
+INFO - [83.656]: Tug 2 finished maintenance!
+INFO - [83.656]: Ship 254 obtained dock.
+INFO - [83.677]: Ship 228 exited.
+INFO - [83.677]: Ship 245 obtained tug 7.
+INFO - [83.677]: Ship 245 starts docking.
+INFO - [83.843]: Ship 342 completed docking.
+INFO - [83.843]: Ship 247 obtained tug 5.
+INFO - [83.843]: Ship 247 starts docking.
+INFO - [83.860]: Ship 232 exited.
+INFO - [83.860]: Ship 249 obtained tug 6.
+INFO - [83.860]: Ship 249 starts docking.
+INFO - [83.887]: Ship 230 exited.
+INFO - [83.887]: Ship 250 obtained tug 3.
+INFO - [83.887]: Ship 250 starts docking.
+INFO - [83.899]: Ship 349 arrived!
+INFO - [84.058]: Ship 231 exited.
+INFO - [84.058]: Ship 251 obtained tug 4.
+INFO - [84.058]: Ship 251 starts docking.
+INFO - [84.319]: Special ship 350 arrived!
+INFO - [84.367]: Ship 244 completed docking.
+INFO - [84.367]: Ship 252 obtained tug 1.
+INFO - [84.367]: Ship 252 starts docking.
+INFO - [84.429]: Ship 242 completed docking.
+INFO - [84.429]: Ship 253 obtained tug 0.
+INFO - [84.429]: Ship 253 starts docking.
+INFO - [84.580]: Ship 329 exited.
+INFO - [84.580]: Ship 254 obtained tug 2.
+INFO - [84.580]: Ship 254 starts docking.
+INFO - [84.645]: Special ship 351 arrived!
+INFO - [84.688]: Ship 245 completed docking.
+INFO - [84.692]: Ship 350 obtained dock.
+INFO - [84.721]: Ship 352 arrived!
+INFO - [84.732]: Ship 353 arrived!
+INFO - [84.887]: Ship 247 completed docking.
+INFO - [84.887]: Ship 350 obtained tug 5.
+INFO - [84.887]: Ship 350 starts docking.
+INFO - [84.987]: Ship 249 completed docking.
+INFO - [85.009]: Ship 250 completed docking.
+INFO - [85.037]: Special ship 354 arrived!
+INFO - [85.097]: Ship 251 completed docking.
+INFO - [85.368]: Ship 355 arrived!
+INFO - [85.375]: Ship 351 obtained dock.
+INFO - [85.375]: Ship 351 obtained tug 3.
+INFO - [85.375]: Ship 351 starts docking.
+INFO - [85.532]: Ship 253 completed docking.
+INFO - [85.617]: Ship 252 completed docking.
+INFO - [85.640]: Ship 254 completed docking.
+INFO - [85.700]: Ship 356 arrived!
+INFO - [85.819]: Ship 233 exited.
+INFO - [85.875]: Ship 350 completed docking.
+INFO - [85.982]: Ship 354 obtained dock.
+INFO - [85.982]: Ship 354 obtained tug 0.
+INFO - [85.982]: Ship 354 starts docking.
+INFO - [86.025]: Ship 357 arrived!
+INFO - [86.138]: Ship 255 obtained dock.
+INFO - [86.138]: Ship 255 obtained tug 2.
+INFO - [86.138]: Ship 255 starts docking.
+INFO - [86.200]: Ship 256 obtained dock.
+INFO - [86.200]: Ship 256 obtained tug 5.
+INFO - [86.200]: Ship 256 starts docking.
+INFO - [86.329]: Ship 235 exited.
+INFO - [86.329]: Ship 257 obtained dock.
+INFO - [86.524]: Ship 358 arrived!
+INFO - [86.527]: Ship 351 completed docking.
+INFO - [86.527]: Ship 258 obtained dock.
+INFO - [86.918]: Ship 359 arrived!
+INFO - [86.973]: Ship 354 completed docking.
+INFO - [86.973]: Ship 259 obtained dock.
+INFO - [86.992]: Ship 239 exited.
+INFO - [86.992]: Ship 257 obtained tug 4.
+INFO - [86.992]: Ship 257 starts docking.
+INFO - [86.998]: Ship 234 exited.
+INFO - [86.998]: Ship 258 obtained tug 1.
+INFO - [86.998]: Ship 258 starts docking.
+INFO - [87.139]: Ship 360 arrived!
+INFO - [87.164]: Ship 255 completed docking.
+INFO - [87.164]: Ship 259 obtained tug 2.
+INFO - [87.164]: Ship 259 starts docking.
+INFO - [87.178]: Ship 256 completed docking.
+INFO - [87.203]: Ship 237 exited.
+INFO - [87.238]: Ship 361 arrived!
+INFO - [87.252]: Ship 362 arrived!
+INFO - [87.269]: Special ship 363 arrived!
+INFO - [87.287]: Ship 363 obtained dock.
+INFO - [87.287]: Ship 363 obtained tug 7.
+INFO - [87.287]: Ship 363 starts docking.
+INFO - [87.302]: Ship 238 exited.
+INFO - [87.479]: Ship 236 exited.
+INFO - [87.531]: Ship 364 arrived!
+INFO - [87.742]: Ship 260 obtained dock.
+INFO - [87.742]: Ship 260 obtained tug 3.
+INFO - [87.742]: Ship 260 starts docking.
+INFO - [87.782]: Ship 257 completed docking.
+INFO - [87.995]: Ship 258 completed docking.
+INFO - [88.041]: Ship 241 exited.
+INFO - [88.111]: Ship 365 arrived!
+INFO - [88.135]: Ship 259 completed docking.
+INFO - [88.257]: Ship 240 exited.
+INFO - [88.273]: Ship 366 arrived!
+INFO - [88.300]: Ship 261 obtained dock.
+INFO - [88.300]: Ship 261 obtained tug 1.
+INFO - [88.300]: Ship 261 starts docking.
+INFO - [88.326]: Ship 363 completed docking.
+INFO - [88.495]: Ship 367 arrived!
+INFO - [88.621]: Ship 368 arrived!
+INFO - [88.674]: Ship 262 obtained dock.
+INFO - [88.674]: Ship 262 obtained tug 2.
+INFO - [88.674]: Ship 262 starts docking.
+INFO - [88.712]: Special ship 369 arrived!
+INFO - [88.737]: Special ship 370 arrived!
+INFO - [88.791]: Ship 369 obtained dock.
+INFO - [88.791]: Ship 369 obtained tug 7.
+INFO - [88.791]: Ship 369 starts docking.
+INFO - [88.901]: Ship 342 exited.
+INFO - [88.901]: Ship 370 obtained dock.
+INFO - [88.982]: Ship 260 completed docking.
+INFO - [88.982]: Ship 370 obtained tug 3.
+INFO - [88.982]: Ship 370 starts docking.
+INFO - [89.000]: Ship 371 arrived!
+INFO - [89.211]: Ship 372 arrived!
+INFO - [89.315]: Ship 261 completed docking.
+INFO - [89.315]: Ship 263 obtained dock.
+INFO - [89.417]: Ship 253 exited.
+INFO - [89.417]: Ship 264 obtained dock.
+INFO - [89.440]: Special ship 373 arrived!
+INFO - [89.482]: Ship 374 arrived!
+INFO - [89.489]: Ship 249 exited.
+INFO - [89.489]: Ship 373 obtained dock.
+INFO - [89.526]: Ship 375 arrived!
+INFO - [89.584]: Tug 0 scheduled for maintenance!
+INFO - [89.599]: Ship 262 completed docking.
+INFO - [89.599]: Ship 265 obtained dock.
+INFO - [89.602]: Ship 376 arrived!
+INFO - [89.644]: Special ship 377 arrived!
+INFO - [89.875]: Ship 369 completed docking.
+INFO - [89.875]: Ship 377 obtained dock.
+INFO - [89.895]: Ship 378 arrived!
+INFO - [89.901]: Special ship 379 arrived!
+INFO - [89.902]: Special ship 380 arrived!
+INFO - [89.925]: Ship 242 exited.
+INFO - [89.925]: Ship 373 obtained tug 5.
+INFO - [89.925]: Ship 373 starts docking.
+INFO - [90.049]: Ship 244 exited.
+INFO - [90.049]: Ship 379 obtained dock.
+INFO - [90.118]: Ship 370 completed docking.
+INFO - [90.118]: Ship 380 obtained dock.
+INFO - [90.260]: Ship 381 arrived!
+INFO - [90.318]: Ship 382 arrived!
+INFO - [90.401]: Ship 251 exited.
+INFO - [90.401]: Ship 266 obtained dock.
+INFO - [90.437]: Ship 350 exited.
+INFO - [90.437]: Ship 377 obtained tug 1.
+INFO - [90.437]: Ship 377 starts docking.
+INFO - [90.439]: Ship 383 arrived!
+INFO - [90.639]: Ship 252 exited.
+INFO - [90.639]: Ship 379 obtained tug 2.
+INFO - [90.639]: Ship 379 starts docking.
+INFO - [90.658]: Ship 247 exited.
+INFO - [90.658]: Tug 0 in maintenance!
+INFO - [90.714]: Special ship 384 arrived!
+INFO - [90.725]: Special ship 385 arrived!
+INFO - [90.974]: Ship 250 exited.
+INFO - [90.974]: Ship 380 obtained tug 7.
+INFO - [90.974]: Ship 380 starts docking.
+INFO - [90.989]: Ship 245 exited.
+INFO - [90.989]: Ship 384 obtained dock.
+INFO - [91.017]: Ship 386 arrived!
+INFO - [91.043]: Ship 373 completed docking.
+INFO - [91.043]: Ship 384 obtained tug 5.
+INFO - [91.043]: Ship 384 starts docking.
+INFO - [91.118]: Ship 254 exited.
+INFO - [91.118]: Ship 263 obtained tug 3.
+INFO - [91.118]: Ship 263 starts docking.
+INFO - [91.168]: Ship 387 arrived!
+INFO - [91.246]: Ship 351 exited.
+INFO - [91.246]: Ship 264 obtained tug 4.
+INFO - [91.246]: Ship 264 starts docking.
+INFO - [91.448]: Ship 377 completed docking.
+INFO - [91.448]: Ship 385 obtained dock.
+INFO - [91.727]: Ship 379 completed docking.
+INFO - [91.727]: Ship 385 obtained tug 2.
+INFO - [91.727]: Ship 385 starts docking.
+INFO - [91.999]: Ship 388 arrived!
+INFO - [92.047]: Special ship 389 arrived!
+INFO - [92.065]: Ship 380 completed docking.
+INFO - [92.065]: Ship 389 obtained dock.
+INFO - [92.075]: Ship 264 completed docking.
+INFO - [92.075]: Ship 267 obtained dock.
+INFO - [92.117]: Ship 390 arrived!
+INFO - [92.131]: Ship 384 completed docking.
+INFO - [92.131]: Ship 389 obtained tug 5.
+INFO - [92.131]: Ship 389 starts docking.
+INFO - [92.169]: Ship 255 exited.
+INFO - [92.169]: Ship 265 obtained tug 6.
+INFO - [92.169]: Ship 265 starts docking.
+INFO - [92.203]: Ship 391 arrived!
+INFO - [92.235]: Ship 392 arrived!
+INFO - [92.255]: Ship 393 arrived!
+INFO - [92.258]: Ship 394 arrived!
+INFO - [92.341]: Ship 263 completed docking.
+INFO - [92.341]: Ship 266 obtained tug 3.
+INFO - [92.341]: Ship 266 starts docking.
+INFO - [92.403]: Ship 354 exited.
+INFO - [92.403]: Ship 267 obtained tug 1.
+INFO - [92.403]: Ship 267 starts docking.
+INFO - [92.405]: Ship 395 arrived!
+INFO - [92.561]: Special ship 396 arrived!
+INFO - [92.636]: Ship 385 completed docking.
+INFO - [92.636]: Ship 396 obtained dock.
+INFO - [92.671]: Special ship 397 arrived!
+INFO - [92.687]: Special ship 398 arrived!
+INFO - [92.709]: Special ship 399 arrived!
+INFO - [92.831]: Tug 4 scheduled for maintenance!
+INFO - [92.858]: Ship 400 arrived!
+INFO - [92.920]: Ship 256 exited.
+INFO - [92.920]: Tug 4 in maintenance!
+INFO - [93.026]: Ship 401 arrived!
+INFO - [93.040]: Ship 257 exited.
+INFO - [93.040]: Ship 397 obtained dock.
+INFO - [93.084]: Ship 389 completed docking.
+INFO - [93.084]: Ship 396 obtained tug 5.
+INFO - [93.084]: Ship 396 starts docking.
+INFO - [93.119]: Special ship 402 arrived!
+INFO - [93.215]: Ship 266 completed docking.
+INFO - [93.215]: Ship 398 obtained dock.
+INFO - [93.217]: Ship 265 completed docking.
+INFO - [93.217]: Ship 397 obtained tug 6.
+INFO - [93.217]: Ship 397 starts docking.
+INFO - [93.308]: Ship 403 arrived!
+INFO - [93.316]: Ship 267 completed docking.
+INFO - [93.316]: Ship 398 obtained tug 1.
+INFO - [93.316]: Ship 398 starts docking.
+INFO - [93.317]: Ship 404 arrived!
+INFO - [93.370]: Special ship 405 arrived!
+INFO - [93.445]: Ship 406 arrived!
+INFO - [93.663]: Ship 363 exited.
+INFO - [93.663]: Ship 399 obtained dock.
+INFO - [93.700]: Ship 407 arrived!
+INFO - [93.876]: Ship 408 arrived!
+INFO - [93.906]: Ship 396 completed docking.
+INFO - [93.906]: Ship 402 obtained dock.
+INFO - [93.906]: Ship 260 exited.
+INFO - [93.906]: Ship 405 obtained dock.
+INFO - [94.037]: Ship 409 arrived!
+INFO - [94.340]: Ship 258 exited.
+INFO - [94.340]: Ship 268 obtained dock.
+INFO - [94.378]: Ship 397 completed docking.
+INFO - [94.378]: Ship 269 obtained dock.
+INFO - [94.392]: Special ship 410 arrived!
+INFO - [94.450]: Ship 398 completed docking.
+INFO - [94.450]: Ship 399 obtained tug 1.
+INFO - [94.450]: Ship 399 starts docking.
+INFO - [94.466]: Special ship 411 arrived!
+INFO - [94.680]: Ship 259 exited.
+INFO - [94.680]: Ship 402 obtained tug 2.
+INFO - [94.680]: Ship 402 starts docking.
+INFO - [94.722]: Ship 262 exited.
+INFO - [94.722]: Ship 405 obtained tug 7.
+INFO - [94.722]: Ship 405 starts docking.
+INFO - [94.768]: Ship 412 arrived!
+INFO - [94.840]: Ship 413 arrived!
+INFO - [94.851]: Ship 414 arrived!
+INFO - [94.968]: Ship 261 exited.
+INFO - [94.968]: Ship 268 obtained tug 5.
+INFO - [94.968]: Ship 268 starts docking.
+INFO - [95.082]: Ship 415 arrived!
+INFO - [95.109]: Tug 3 scheduled for maintenance!
+INFO - [95.142]: Ship 416 arrived!
+INFO - [95.279]: Ship 369 exited.
+INFO - [95.279]: Tug 3 in maintenance!
+INFO - [95.308]: Ship 370 exited.
+INFO - [95.308]: Ship 410 obtained dock.
+INFO - [95.398]: Ship 417 arrived!
+INFO - [95.484]: Ship 399 completed docking.
+INFO - [95.484]: Ship 410 obtained tug 1.
+INFO - [95.484]: Ship 410 starts docking.
+INFO - [95.632]: Ship 402 completed docking.
+INFO - [95.632]: Ship 411 obtained dock.
+INFO - [95.737]: Ship 418 arrived!
+INFO - [95.806]: Ship 405 completed docking.
+INFO - [95.806]: Ship 270 obtained dock.
+INFO - [95.813]: Ship 419 arrived!
+INFO - [95.892]: Ship 420 arrived!
+INFO - [96.036]: Tug 4 finished maintenance!
+INFO - [96.036]: Ship 271 obtained dock.
+INFO - [96.062]: Ship 268 completed docking.
+INFO - [96.062]: Ship 411 obtained tug 5.
+INFO - [96.062]: Ship 411 starts docking.
+INFO - [96.340]: Ship 421 arrived!
+INFO - [96.349]: Ship 377 exited.
+INFO - [96.349]: Ship 272 obtained dock.
+INFO - [96.509]: Ship 410 completed docking.
+INFO - [96.509]: Ship 273 obtained dock.
+INFO - [96.616]: Ship 422 arrived!
+INFO - [96.669]: Ship 384 exited.
+INFO - [96.669]: Ship 274 obtained dock.
+INFO - [96.866]: Tug 3 finished maintenance!
+INFO - [96.866]: Ship 275 obtained dock.
+INFO - [96.893]: Ship 423 arrived!
+INFO - [96.928]: Ship 379 exited.
+INFO - [96.928]: Ship 269 obtained tug 7.
+INFO - [96.928]: Ship 269 starts docking.
+INFO - [97.035]: Tug 6 scheduled for maintenance!
+INFO - [97.090]: Ship 424 arrived!
+INFO - [97.149]: Ship 411 completed docking.
+INFO - [97.149]: Ship 276 obtained dock.
+INFO - [97.204]: Ship 373 exited.
+INFO - [97.204]: Ship 277 obtained dock.
+INFO - [97.215]: Ship 425 arrived!
+INFO - [97.448]: Ship 380 exited.
+INFO - [97.448]: Tug 6 in maintenance!
+INFO - [97.490]: Special ship 426 arrived!
+INFO - [97.570]: Ship 385 exited.
+INFO - [97.570]: Ship 426 obtained dock.
+INFO - [97.693]: Ship 263 exited.
+INFO - [97.693]: Ship 279 obtained dock.
+INFO - [97.764]: Ship 269 completed docking.
+INFO - [97.764]: Ship 280 obtained dock.
+INFO - [97.799]: Ship 264 exited.
+INFO - [97.799]: Ship 426 obtained tug 2.
+INFO - [97.799]: Ship 426 starts docking.
+INFO - [98.148]: Ship 266 exited.
+INFO - [98.148]: Ship 270 obtained tug 5.
+INFO - [98.148]: Ship 270 starts docking.
+INFO - [98.160]: Ship 427 arrived!
+INFO - [98.186]: Ship 265 exited.
+INFO - [98.186]: Ship 281 obtained dock.
+INFO - [98.307]: Ship 428 arrived!
+INFO - [98.461]: Ship 426 completed docking.
+INFO - [98.461]: Ship 271 obtained tug 2.
+INFO - [98.461]: Ship 271 starts docking.
+INFO - [98.473]: Ship 429 arrived!
+INFO - [98.574]: Ship 396 exited.
+INFO - [98.574]: Ship 272 obtained tug 1.
+INFO - [98.574]: Ship 272 starts docking.
+INFO - [98.610]: Ship 389 exited.
+INFO - [98.610]: Ship 273 obtained tug 3.
+INFO - [98.610]: Ship 273 starts docking.
+INFO - [98.864]: Ship 430 arrived!
+INFO - [98.974]: Ship 267 exited.
+INFO - [98.974]: Ship 282 obtained dock.
+INFO - [99.077]: Ship 431 arrived!
+INFO - [99.156]: Ship 397 exited.
+INFO - [99.156]: Ship 283 obtained dock.
+INFO - [99.327]: Ship 270 completed docking.
+INFO - [99.327]: Ship 274 obtained tug 5.
+INFO - [99.327]: Ship 274 starts docking.
+INFO - [99.371]: Ship 432 arrived!
+INFO - [99.595]: Ship 433 arrived!
+INFO - [99.633]: Ship 271 completed docking.
+INFO - [99.633]: Ship 275 obtained tug 2.
+INFO - [99.633]: Ship 275 starts docking.
+INFO - [99.651]: Ship 272 completed docking.
+INFO - [99.651]: Ship 276 obtained tug 1.
+INFO - [99.651]: Ship 276 starts docking.
+INFO - [99.659]: Ship 273 completed docking.
+INFO - [99.659]: Ship 277 obtained tug 3.
+INFO - [99.659]: Ship 277 starts docking.
+INFO - [99.694]: Tug 6 finished maintenance!
+INFO - [99.694]: Ship 279 obtained tug 6.
+INFO - [99.694]: Ship 279 starts docking.
+INFO - [99.787]: Ship 434 arrived!
+INFO - [99.798]: Tug 0 finished maintenance!
+INFO - [99.798]: Ship 284 obtained dock.
+INFO - [100.053]: Ship 402 exited.
+INFO - [100.053]: Ship 280 obtained tug 7.
+INFO - [100.053]: Ship 280 starts docking.
+INFO - [100.113]: Ship 398 exited.
+INFO - [100.113]: Ship 281 obtained tug 4.
+INFO - [100.113]: Ship 281 starts docking.
+INFO - [100.195]: Ship 274 completed docking.
+INFO - [100.195]: Ship 282 obtained tug 5.
+INFO - [100.195]: Ship 282 starts docking.
+INFO - [100.482]: Ship 277 completed docking.
+INFO - [100.482]: Ship 285 obtained dock.
+INFO - [100.485]: Ship 279 completed docking.
+INFO - [100.485]: Ship 283 obtained tug 6.
+INFO - [100.485]: Ship 283 starts docking.
+INFO - [100.543]: Ship 275 completed docking.
+INFO - [100.543]: Ship 284 obtained tug 2.
+INFO - [100.543]: Ship 284 starts docking.
+INFO - [100.631]: Special ship 435 arrived!
+INFO - [100.633]: Ship 436 arrived!
+INFO - [100.781]: Ship 276 completed docking.
+INFO - [100.781]: Ship 435 obtained dock.
+INFO - [100.912]: Ship 399 exited.
+INFO - [100.912]: Ship 286 obtained dock.
+INFO - [100.948]: Special ship 437 arrived!
+INFO - [101.023]: Ship 281 completed docking.
+INFO - [101.023]: Ship 435 obtained tug 4.
+INFO - [101.023]: Ship 435 starts docking.
+INFO - [101.083]: Ship 280 completed docking.
+INFO - [101.083]: Ship 285 obtained tug 7.
+INFO - [101.083]: Ship 285 starts docking.
+INFO - [101.156]: Special ship 438 arrived!
+INFO - [101.192]: Ship 439 arrived!
+INFO - [101.254]: Ship 282 completed docking.
+INFO - [101.254]: Ship 286 obtained tug 5.
+INFO - [101.254]: Ship 286 starts docking.
+INFO - [101.268]: Ship 440 arrived!
+INFO - [101.317]: Ship 441 arrived!
+INFO - [101.368]: Ship 405 exited.
+INFO - [101.368]: Ship 442 arrived!
+INFO - [101.419]: Special ship 443 arrived!
+INFO - [101.465]: Ship 283 completed docking.
+INFO - [101.493]: Ship 284 completed docking.
+INFO - [101.514]: Ship 437 obtained dock.
+INFO - [101.514]: Ship 437 obtained tug 6.
+INFO - [101.514]: Ship 437 starts docking.
+INFO - [101.666]: Ship 411 exited.
+INFO - [101.672]: Special ship 444 arrived!
+INFO - [101.680]: Ship 438 obtained dock.
+INFO - [101.680]: Ship 438 obtained tug 1.
+INFO - [101.680]: Ship 438 starts docking.
+INFO - [101.867]: Ship 445 arrived!
+INFO - [101.890]: Ship 435 completed docking.
+INFO - [101.890]: Ship 443 obtained dock.
+INFO - [101.939]: Ship 446 arrived!
+INFO - [101.957]: Ship 268 exited.
+INFO - [101.957]: Ship 443 obtained tug 0.
+INFO - [101.957]: Ship 443 starts docking.
+INFO - [101.964]: Ship 285 completed docking.
+INFO - [102.197]: Ship 447 arrived!
+INFO - [102.221]: Special ship 448 arrived!
+INFO - [102.230]: Ship 449 arrived!
+INFO - [102.353]: Ship 286 completed docking.
+INFO - [102.394]: Ship 410 exited.
+INFO - [102.404]: Ship 437 completed docking.
+INFO - [102.612]: Ship 269 exited.
+INFO - [102.798]: Ship 438 completed docking.
+INFO - [102.879]: Ship 444 obtained dock.
+INFO - [102.879]: Ship 444 obtained tug 5.
+INFO - [102.879]: Ship 444 starts docking.
+INFO - [102.935]: Ship 443 completed docking.
+INFO - [102.948]: Special ship 450 arrived!
+INFO - [102.995]: Ship 426 exited.
+INFO - [103.003]: Tug 7 scheduled for maintenance!
+INFO - [103.150]: Ship 448 obtained dock.
+INFO - [103.150]: Ship 448 obtained tug 6.
+INFO - [103.150]: Ship 448 starts docking.
+INFO - [103.341]: Special ship 451 arrived!
+INFO - [103.505]: Ship 452 arrived!
+INFO - [103.508]: Ship 450 obtained dock.
+INFO - [103.508]: Ship 450 obtained tug 1.
+INFO - [103.508]: Ship 450 starts docking.
+INFO - [103.597]: Ship 451 obtained dock.
+INFO - [103.597]: Ship 451 obtained tug 4.
+INFO - [103.597]: Ship 451 starts docking.
+INFO - [103.645]: Ship 453 arrived!
+INFO - [103.659]: Ship 454 arrived!
+INFO - [103.723]: Ship 455 arrived!
+INFO - [103.791]: Ship 456 arrived!
+INFO - [103.941]: Ship 457 arrived!
+INFO - [103.982]: Special ship 458 arrived!
+INFO - [103.983]: Ship 448 completed docking.
+INFO - [103.983]: Ship 458 obtained dock.
+INFO - [103.985]: Ship 444 completed docking.
+INFO - [103.985]: Ship 287 obtained dock.
+INFO - [103.991]: Ship 273 exited.
+INFO - [103.991]: Tug 7 in maintenance!
+INFO - [104.063]: Ship 271 exited.
+INFO - [104.063]: Ship 458 obtained tug 3.
+INFO - [104.063]: Ship 458 starts docking.
+INFO - [104.297]: Special ship 459 arrived!
+INFO - [104.381]: Ship 274 exited.
+INFO - [104.381]: Ship 287 obtained tug 2.
+INFO - [104.381]: Ship 287 starts docking.
+INFO - [104.418]: Special ship 460 arrived!
+INFO - [104.564]: Ship 461 arrived!
+INFO - [104.603]: Ship 275 exited.
+INFO - [104.603]: Ship 459 obtained dock.
+INFO - [104.682]: Ship 450 completed docking.
+INFO - [104.682]: Ship 459 obtained tug 1.
+INFO - [104.682]: Ship 459 starts docking.
+INFO - [104.726]: Ship 451 completed docking.
+INFO - [104.726]: Ship 460 obtained dock.
+INFO - [104.736]: Tug 5 scheduled for maintenance!
+INFO - [105.001]: Ship 270 exited.
+INFO - [105.001]: Ship 460 obtained tug 6.
+INFO - [105.001]: Ship 460 starts docking.
+INFO - [105.040]: Tug 7 finished maintenance!
+INFO - [105.048]: Ship 458 completed docking.
+INFO - [105.057]: Ship 462 arrived!
+INFO - [105.087]: Ship 272 exited.
+INFO - [105.087]: Tug 5 in maintenance!
+INFO - [105.092]: Ship 288 obtained dock.
+INFO - [105.092]: Ship 288 obtained tug 3.
+INFO - [105.092]: Ship 288 starts docking.
+INFO - [105.330]: Special ship 463 arrived!
+INFO - [105.516]: Ship 464 arrived!
+INFO - [105.521]: Ship 287 completed docking.
+INFO - [105.521]: Ship 463 obtained dock.
+INFO - [105.637]: Ship 459 completed docking.
+INFO - [105.637]: Ship 289 obtained dock.
+INFO - [105.643]: Ship 465 arrived!
+INFO - [105.648]: Ship 276 exited.
+INFO - [105.648]: Ship 463 obtained tug 0.
+INFO - [105.648]: Ship 463 starts docking.
+INFO - [105.770]: Ship 281 exited.
+INFO - [105.770]: Ship 290 obtained dock.
+INFO - [106.051]: Ship 466 arrived!
+INFO - [106.058]: Ship 460 completed docking.
+INFO - [106.058]: Ship 291 obtained dock.
+INFO - [106.161]: Ship 288 completed docking.
+INFO - [106.161]: Ship 292 obtained dock.
+INFO - [106.230]: Ship 277 exited.
+INFO - [106.230]: Ship 293 obtained dock.
+INFO - [106.260]: Ship 283 exited.
+INFO - [106.260]: Ship 294 obtained dock.
+INFO - [106.654]: Ship 467 arrived!
+INFO - [106.681]: Ship 279 exited.
+INFO - [106.681]: Ship 296 obtained dock.
+INFO - [106.749]: Ship 285 exited.
+INFO - [106.749]: Ship 289 obtained tug 1.
+INFO - [106.749]: Ship 289 starts docking.
+INFO - [106.824]: Ship 463 completed docking.
+INFO - [106.824]: Ship 297 obtained dock.
+INFO - [106.937]: Tug 5 finished maintenance!
+INFO - [106.937]: Ship 290 obtained tug 5.
+INFO - [106.937]: Ship 290 starts docking.
+INFO - [107.061]: Ship 280 exited.
+INFO - [107.061]: Ship 291 obtained tug 3.
+INFO - [107.061]: Ship 291 starts docking.
+INFO - [107.063]: Ship 284 exited.
+INFO - [107.063]: Ship 292 obtained tug 6.
+INFO - [107.063]: Ship 292 starts docking.
+INFO - [107.102]: Special ship 468 arrived!
+INFO - [107.133]: Ship 469 arrived!
+INFO - [107.169]: Ship 282 exited.
+INFO - [107.169]: Ship 293 obtained tug 7.
+INFO - [107.169]: Ship 293 starts docking.
+INFO - [107.206]: Ship 470 arrived!
+INFO - [107.299]: Ship 471 arrived!
+INFO - [107.363]: Ship 286 exited.
+INFO - [107.363]: Ship 294 obtained tug 2.
+INFO - [107.363]: Ship 294 starts docking.
+INFO - [107.632]: Special ship 472 arrived!
+INFO - [107.753]: Ship 289 completed docking.
+INFO - [107.753]: Ship 468 obtained dock.
+INFO - [107.813]: Ship 438 exited.
+INFO - [107.813]: Ship 468 obtained tug 4.
+INFO - [107.813]: Ship 468 starts docking.
+INFO - [107.898]: Ship 435 exited.
+INFO - [107.898]: Ship 472 obtained dock.
+INFO - [107.947]: Ship 290 completed docking.
+INFO - [107.947]: Ship 298 obtained dock.
+INFO - [107.962]: Special ship 473 arrived!
+INFO - [107.980]: Ship 474 arrived!
+INFO - [108.153]: Ship 292 completed docking.
+INFO - [108.153]: Ship 472 obtained tug 6.
+INFO - [108.153]: Ship 472 starts docking.
+INFO - [108.168]: Ship 291 completed docking.
+INFO - [108.168]: Ship 296 obtained tug 3.
+INFO - [108.168]: Ship 296 starts docking.
+INFO - [108.227]: Ship 475 arrived!
+INFO - [108.268]: Ship 293 completed docking.
+INFO - [108.268]: Ship 297 obtained tug 7.
+INFO - [108.268]: Ship 297 starts docking.
+INFO - [108.412]: Ship 476 arrived!
+INFO - [108.418]: Ship 477 arrived!
+INFO - [108.441]: Ship 478 arrived!
+INFO - [108.470]: Ship 294 completed docking.
+INFO - [108.470]: Ship 298 obtained tug 2.
+INFO - [108.470]: Ship 298 starts docking.
+INFO - [108.638]: Ship 437 exited.
+INFO - [108.638]: Ship 473 obtained dock.
+INFO - [108.679]: Ship 468 completed docking.
+INFO - [108.679]: Ship 299 obtained dock.
+INFO - [108.816]: Ship 443 exited.
+INFO - [108.816]: Ship 300 obtained dock.
+INFO - [108.851]: Ship 479 arrived!
+INFO - [108.880]: Ship 480 arrived!
+INFO - [108.924]: Ship 444 exited.
+INFO - [108.924]: Ship 301 obtained dock.
+INFO - [108.965]: Ship 481 arrived!
+INFO - [108.994]: Ship 482 arrived!
+INFO - [109.213]: Ship 472 completed docking.
+INFO - [109.213]: Ship 473 obtained tug 6.
+INFO - [109.213]: Ship 473 starts docking.
+INFO - [109.245]: Ship 297 completed docking.
+INFO - [109.245]: Ship 299 obtained tug 7.
+INFO - [109.245]: Ship 299 starts docking.
+INFO - [109.265]: Special ship 483 arrived!
+INFO - [109.286]: Ship 296 completed docking.
+INFO - [109.286]: Ship 300 obtained tug 3.
+INFO - [109.286]: Ship 300 starts docking.
+INFO - [109.357]: Ship 298 completed docking.
+INFO - [109.357]: Ship 301 obtained tug 2.
+INFO - [109.357]: Ship 301 starts docking.
+INFO - [109.454]: Ship 484 arrived!
+INFO - [109.629]: Ship 448 exited.
+INFO - [109.636]: Ship 451 exited.
+INFO - [109.772]: Ship 458 exited.
+INFO - [109.788]: Ship 450 exited.
+INFO - [109.831]: Ship 483 obtained dock.
+INFO - [109.831]: Ship 483 obtained tug 1.
+INFO - [109.831]: Ship 483 starts docking.
+INFO - [109.884]: Ship 302 obtained dock.
+INFO - [109.884]: Ship 302 obtained tug 0.
+INFO - [109.884]: Ship 302 starts docking.
+INFO - [109.896]: Special ship 485 arrived!
+INFO - [109.932]: Ship 486 arrived!
+INFO - [110.106]: Ship 473 completed docking.
+INFO - [110.232]: Ship 487 arrived!
+INFO - [110.309]: Ship 299 completed docking.
+INFO - [110.336]: Ship 485 obtained dock.
+INFO - [110.336]: Ship 485 obtained tug 7.
+INFO - [110.336]: Ship 485 starts docking.
+INFO - [110.351]: Ship 488 arrived!
+INFO - [110.357]: Ship 301 completed docking.
+INFO - [110.414]: Ship 300 completed docking.
+INFO - [110.473]: Special ship 489 arrived!
+INFO - [110.492]: Ship 489 obtained dock.
+INFO - [110.492]: Ship 489 obtained tug 3.
+INFO - [110.492]: Ship 489 starts docking.
+INFO - [110.699]: Ship 287 exited.
+INFO - [110.737]: Ship 459 exited.
+INFO - [110.797]: Ship 490 arrived!
+INFO - [110.876]: Ship 483 completed docking.
+INFO - [110.905]: Ship 302 completed docking.
+INFO - [110.985]: Ship 303 obtained dock.
+INFO - [110.985]: Ship 303 obtained tug 5.
+INFO - [110.985]: Ship 303 starts docking.
+INFO - [111.231]: Ship 485 completed docking.
+INFO - [111.274]: Ship 304 obtained dock.
+INFO - [111.274]: Ship 304 obtained tug 0.
+INFO - [111.274]: Ship 304 starts docking.
+INFO - [111.291]: Ship 460 exited.
+INFO - [111.296]: Ship 463 exited.
+INFO - [111.302]: Ship 491 arrived!
+INFO - [111.360]: Ship 305 obtained dock.
+INFO - [111.360]: Ship 305 obtained tug 6.
+INFO - [111.360]: Ship 305 starts docking.
+INFO - [111.635]: Ship 489 completed docking.
+INFO - [111.661]: Ship 306 obtained dock.
+INFO - [111.661]: Ship 306 obtained tug 3.
+INFO - [111.661]: Ship 306 starts docking.
+INFO - [111.683]: Tug 2 scheduled for maintenance!
+INFO - [111.799]: Ship 492 arrived!
+INFO - [111.895]: Ship 493 arrived!
+INFO - [112.010]: Ship 494 arrived!
+INFO - [112.022]: Ship 303 completed docking.
+INFO - [112.022]: Ship 307 obtained dock.
+INFO - [112.036]: Ship 495 arrived!
+INFO - [112.136]: Ship 304 completed docking.
+INFO - [112.136]: Ship 308 obtained dock.
+INFO - [112.138]: Ship 288 exited.
+INFO - [112.138]: Ship 307 obtained tug 4.
+INFO - [112.138]: Ship 307 starts docking.
+INFO - [112.273]: Ship 496 arrived!
+INFO - [112.313]: Ship 291 exited.
+INFO - [112.313]: Ship 308 obtained tug 1.
+INFO - [112.313]: Ship 308 starts docking.
+INFO - [112.391]: Ship 306 completed docking.
+INFO - [112.436]: Ship 305 completed docking.
+INFO - [112.477]: Ship 290 exited.
+INFO - [112.521]: Tug 1 scheduled for maintenance!
+INFO - [112.734]: Ship 289 exited.
+INFO - [112.734]: Tug 2 in maintenance!
+INFO - [112.762]: Ship 310 obtained dock.
+INFO - [112.762]: Ship 310 obtained tug 6.
+INFO - [112.762]: Ship 310 starts docking.
+INFO - [112.819]: Ship 497 arrived!
+INFO - [112.874]: Ship 498 arrived!
+INFO - [112.885]: Ship 312 obtained dock.
+INFO - [112.904]: Ship 499 arrived!
+INFO - [112.915]: Ship 500 arrived!
+INFO - [112.916]: Ship 501 arrived!
+INFO - [113.016]: Ship 502 arrived!
+INFO - [113.040]: Ship 293 exited.
+INFO - [113.040]: Ship 312 obtained tug 5.
+INFO - [113.040]: Ship 312 starts docking.
+INFO - [113.105]: Ship 503 arrived!
+INFO - [113.177]: Ship 292 exited.
+INFO - [113.177]: Ship 314 obtained dock.
+INFO - [113.183]: Ship 307 completed docking.
+INFO - [113.183]: Ship 314 obtained tug 4.
+INFO - [113.183]: Ship 314 starts docking.
+INFO - [113.192]: Ship 504 arrived!
+INFO - [113.488]: Ship 308 completed docking.
+INFO - [113.488]: Tug 1 in maintenance!
+INFO - [113.564]: Ship 310 completed docking.
+INFO - [113.618]: Ship 315 obtained dock.
+INFO - [113.636]: Ship 505 arrived!
+INFO - [113.673]: Ship 294 exited.
+INFO - [113.673]: Ship 315 obtained tug 3.
+INFO - [113.673]: Ship 315 starts docking.
+INFO - [113.683]: Ship 506 arrived!
+INFO - [113.687]: Ship 507 arrived!
+INFO - [113.691]: Ship 468 exited.
+INFO - [113.735]: Ship 508 arrived!
+INFO - [113.747]: Ship 509 arrived!
+INFO - [113.793]: Ship 510 arrived!
+INFO - [113.799]: Special ship 511 arrived!
+INFO - [113.836]: Ship 511 obtained dock.
+INFO - [113.838]: Ship 512 arrived!
+INFO - [113.891]: Ship 312 completed docking.
+INFO - [113.891]: Ship 511 obtained tug 5.
+INFO - [113.891]: Ship 511 starts docking.
+INFO - [114.134]: Ship 314 completed docking.
+INFO - [114.134]: Ship 317 obtained dock.
+INFO - [114.225]: Ship 472 exited.
+INFO - [114.225]: Ship 319 obtained dock.
+INFO - [114.303]: Ship 513 arrived!
+INFO - [114.514]: Ship 296 exited.
+INFO - [114.514]: Ship 320 obtained dock.
+INFO - [114.676]: Ship 315 completed docking.
+INFO - [114.676]: Ship 317 obtained tug 3.
+INFO - [114.676]: Ship 317 starts docking.
+INFO - [114.744]: Ship 511 completed docking.
+INFO - [114.744]: Ship 321 obtained dock.
+INFO - [114.894]: Ship 299 exited.
+INFO - [114.894]: Ship 322 obtained dock.
+INFO - [114.904]: Ship 514 arrived!
+INFO - [115.031]: Ship 515 arrived!
+INFO - [115.080]: Ship 473 exited.
+INFO - [115.080]: Ship 323 obtained dock.
+INFO - [115.271]: Ship 516 arrived!
+INFO - [115.277]: Ship 298 exited.
+INFO - [115.277]: Ship 319 obtained tug 0.
+INFO - [115.277]: Ship 319 starts docking.
+INFO - [115.285]: Ship 517 arrived!
+INFO - [115.384]: Ship 518 arrived!
+INFO - [115.398]: Special ship 519 arrived!
+INFO - [115.514]: Ship 520 arrived!
+INFO - [115.537]: Ship 301 exited.
+INFO - [115.537]: Ship 519 obtained dock.
+INFO - [115.547]: Ship 317 completed docking.
+INFO - [115.547]: Ship 519 obtained tug 3.
+INFO - [115.547]: Ship 519 starts docking.
+INFO - [115.611]: Special ship 521 arrived!
+INFO - [115.626]: Ship 297 exited.
+INFO - [115.626]: Ship 320 obtained tug 6.
+INFO - [115.626]: Ship 320 starts docking.
+INFO - [115.982]: Tug 4 scheduled for maintenance!
+INFO - [116.009]: Ship 300 exited.
+INFO - [116.009]: Tug 4 in maintenance!
+INFO - [116.023]: Ship 483 exited.
+INFO - [116.023]: Ship 521 obtained dock.
+INFO - [116.275]: Ship 522 arrived!
+INFO - [116.326]: Ship 302 exited.
+INFO - [116.326]: Ship 324 obtained dock.
+INFO - [116.358]: Ship 523 arrived!
+INFO - [116.430]: Ship 319 completed docking.
+INFO - [116.430]: Ship 521 obtained tug 0.
+INFO - [116.430]: Ship 521 starts docking.
+INFO - [116.649]: Ship 519 completed docking.
+INFO - [116.649]: Ship 321 obtained tug 3.
+INFO - [116.649]: Ship 321 starts docking.
+INFO - [116.729]: Tug 1 finished maintenance!
+INFO - [116.729]: Ship 322 obtained tug 1.
+INFO - [116.729]: Ship 322 starts docking.
+INFO - [116.762]: Ship 320 completed docking.
+INFO - [116.762]: Ship 323 obtained tug 6.
+INFO - [116.762]: Ship 323 starts docking.
+INFO - [116.773]: Ship 524 arrived!
+INFO - [117.022]: Ship 525 arrived!
+INFO - [117.050]: Ship 526 arrived!
+INFO - [117.069]: Special ship 527 arrived!
+INFO - [117.114]: Ship 485 exited.
+INFO - [117.114]: Ship 527 obtained dock.
+INFO - [117.159]: Ship 528 arrived!
+INFO - [117.254]: Special ship 529 arrived!
+INFO - [117.314]: Ship 521 completed docking.
+INFO - [117.314]: Ship 529 obtained dock.
+INFO - [117.388]: Ship 530 arrived!
+INFO - [117.454]: Ship 489 exited.
+INFO - [117.454]: Ship 527 obtained tug 5.
+INFO - [117.454]: Ship 527 starts docking.
+INFO - [117.456]: Special ship 531 arrived!
+INFO - [117.551]: Ship 321 completed docking.
+INFO - [117.551]: Ship 529 obtained tug 3.
+INFO - [117.551]: Ship 529 starts docking.
+INFO - [117.572]: Ship 532 arrived!
+INFO - [117.739]: Ship 533 arrived!
+INFO - [117.800]: Ship 322 completed docking.
+INFO - [117.800]: Ship 531 obtained dock.
+INFO - [117.900]: Ship 323 completed docking.
+INFO - [117.900]: Ship 531 obtained tug 6.
+INFO - [117.900]: Ship 531 starts docking.
+INFO - [118.056]: Ship 304 exited.
+INFO - [118.056]: Ship 325 obtained dock.
+INFO - [118.073]: Ship 303 exited.
+INFO - [118.073]: Ship 326 obtained dock.
+INFO - [118.312]: Ship 527 completed docking.
+INFO - [118.312]: Ship 327 obtained dock.
+INFO - [118.340]: Ship 534 arrived!
+INFO - [118.433]: Ship 529 completed docking.
+INFO - [118.433]: Ship 328 obtained dock.
+INFO - [118.433]: Ship 535 arrived!
+INFO - [118.495]: Tug 2 finished maintenance!
+INFO - [118.495]: Ship 330 obtained dock.
+INFO - [118.557]: Ship 536 arrived!
+INFO - [118.621]: Special ship 537 arrived!
+INFO - [118.621]: Ship 538 arrived!
+INFO - [118.711]: Ship 539 arrived!
+INFO - [118.829]: Ship 540 arrived!
+INFO - [118.837]: Ship 306 exited.
+INFO - [118.837]: Ship 537 obtained dock.
+INFO - [118.909]: Ship 541 arrived!
+INFO - [118.933]: Ship 305 exited.
+INFO - [118.933]: Ship 331 obtained dock.
+INFO - [118.939]: Ship 542 arrived!
+INFO - [118.964]: Ship 531 completed docking.
+INFO - [118.964]: Ship 537 obtained tug 6.
+INFO - [118.964]: Ship 537 starts docking.
+INFO - [119.036]: Ship 543 arrived!
+INFO - [119.050]: Ship 308 exited.
+INFO - [119.050]: Ship 324 obtained tug 7.
+INFO - [119.050]: Ship 324 starts docking.
+INFO - [119.212]: Ship 544 arrived!
+INFO - [119.284]: Ship 310 exited.
+INFO - [119.284]: Ship 325 obtained tug 5.
+INFO - [119.284]: Ship 325 starts docking.
+INFO - [119.395]: Ship 307 exited.
+INFO - [119.395]: Ship 326 obtained tug 2.
+INFO - [119.395]: Ship 326 starts docking.
+INFO - [119.634]: Ship 312 exited.
+INFO - [119.634]: Ship 327 obtained tug 3.
+INFO - [119.634]: Ship 327 starts docking.
+INFO - [119.679]: Ship 545 arrived!
+INFO - [119.866]: Ship 314 exited.
+INFO - [119.866]: Ship 332 obtained dock.
+INFO - [119.977]: Special ship 546 arrived!
