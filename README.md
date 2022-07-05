@@ -1,6 +1,7 @@
 # Discrete-event Simulation with SimPy
 
 ## Overview
+A Discrete-event simulation project for *Complex Models for Complex Systems*'s seminar at the University of Pisa.
 
 ## Instructions
 
